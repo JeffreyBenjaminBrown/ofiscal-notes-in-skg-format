@@ -1,0 +1,9 @@
+title: TODO all sales are "other" (not "normal") capital profits
+pid: 3224530d-8f3b-4ccd-a94f-d1de4a20b661
+body: |2-
+  So far we've been grouping all capital income together, but it has to be split, because the GMF treatment differs across those two groups.
+  "P7510S9A1" : "income, year : sale : stock"
+  "P7513S3A1" : "income, year : sale : livestock"
+  "P7513S1A1" : "income, year : sale : real estate"
+  "P7513S4A1" : "income, year : sale : stock ?2"
+  "P7513S2A1" : "income, year : sale : vehicle | equipment"

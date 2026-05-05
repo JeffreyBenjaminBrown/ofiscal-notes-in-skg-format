@@ -1,0 +1,4 @@
+title: set up automatic backups
+pid: 7d9184e4-9c4f-4ab3-8f67-f78e65fea7f8
+body: |2-
+  https://aws.amazon.com/blogs/aws/aws-backup-ec2-instances-efs-single-file-restore-and-cross-region-backup/

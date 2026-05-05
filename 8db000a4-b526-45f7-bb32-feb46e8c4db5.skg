@@ -1,0 +1,6 @@
+title: two columns can have the same name, silently
+pid: 8db000a4-b526-45f7-bb32-feb46e8c4db5
+body: |2-
+  This can result in errors like "cannot add str to int".
+  Because if you add a number to a column, and another shares its name,
+  it will try to add the number to both.

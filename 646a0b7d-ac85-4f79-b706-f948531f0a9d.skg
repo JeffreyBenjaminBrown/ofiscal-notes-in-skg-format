@@ -1,0 +1,5 @@
+title: make the .csv files' location a config param
+pid: 646a0b7d-ac85-4f79-b706-f948531f0a9d
+body: |2-
+  That location should have each of the files needed --
+  most_income.csv, dividend.csv, etc.

@@ -1,0 +1,5 @@
+title: 7350101, mixed transport
+pid: f6ae38e1-b551-46b8-98d7-5f46b39cf007
+body: |2-
+  param: Pr(air travel)
+  19 for air travel, otherwise 0.

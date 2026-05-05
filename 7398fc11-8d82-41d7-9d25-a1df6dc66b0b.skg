@@ -1,0 +1,44 @@
+title: the diff
+pid: 7398fc11-8d82-41d7-9d25-a1df6dc66b0b
+body: |2-
+  diff --git a/bash/run-makefile.py b/bash/run-makefile.py
+  index 4b4a83a..ba6c140 100644
+  --- a/bash/run-makefile.py
+  +++ b/bash/run-makefile.py
+  @@ -44,8 +44,8 @@ with open( os.path.join( logs_path, "make.txt"),
+
+   targets = [ "show_config",
+               "show_params",
+  -            "tests",
+  -            "reports",
+  +            # "tests",
+  +            "report_households"
+             ]
+     # Makefile targets.
+     # For the full list of possible targets,
+  diff --git a/docker/Dockerfile b/docker/Dockerfile
+  index 98d6800..59826b0 100644
+  --- a/docker/Dockerfile
+  +++ b/docker/Dockerfile
+  @@ -100,7 +100,7 @@ RUN chmod +777 /usr/bin/python-from-here
+   # PITFALL: While the names "jeff" and "users" aren't important,
+   # the IDs are. This is designed to match my system,
+   # where "jeff" = 1000 and "users" = 100.
+  -RUN groupmod -g 100 users            && \
+  +RUN groupmod -g 1000 users           && \
+       useradd -r -u 1000 -g users jeff && \
+       mkdir /home/jeff                 && \
+       chmod +777 /home/jeff            && \
+  diff --git a/docker/commands.sh b/docker/commands.sh
+  index ccf3f51..d4b3c7c 100644
+  --- a/docker/commands.sh
+  +++ b/docker/commands.sh
+  @@ -5,7 +5,7 @@
+   # A trick to quickly edit a Docker-locked file from the host system:
+   # https://stackoverflow.com/a/26915343
+
+  -DOCKER_IMAGE_SUFFIX="2022-01-11.Conda-2021-11_user-jeff"
+  +DOCKER_IMAGE_SUFFIX="2022-01-11.for-aws.Conda-2021-11_user-jeff"
+
+   # Start a docker container based on the latest image.
+   docker run --name tax -itd                   \

@@ -1,0 +1,8 @@
+title: TODO "vat" conflates some taxes
+pid: 6a9d0d80-5a4f-4354-a85c-33195a15b68d
+body: |2-
+  That's why, for instance, its max in purchases_2_vat_test is 0.27, not 19.
+  (0.27 is the total tax levied on big motorcycles --
+  the usual 19%, plus 8% more.)
+misc:
+- Had_ID_Before_Import

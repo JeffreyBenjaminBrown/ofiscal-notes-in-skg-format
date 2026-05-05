@@ -1,0 +1,9 @@
+title: Import and impute.
+pid: b7f4a53d-ff2d-4cc5-8ba1-d56a0b71a1be
+body: |2-
+  Import all the income tax, VAT, and spending from the households,
+  then impute it to indivudals based on earnings.
+  Preserve individual total income, to divide by household income.
+contains:
+- 46a5a330-1908-458f-a523-395beb381890
+- f36d5f5f-14ba-4e6f-970b-9a62cc0037b6

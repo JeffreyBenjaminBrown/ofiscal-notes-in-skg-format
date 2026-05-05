@@ -1,0 +1,11 @@
+title: other groups we could easily have
+pid: 9ccc4464-6956-4f14-bd61-5a088837b18b
+body: |2-
+  all-elderly
+  all-female, all-male
+  has-child
+  has-elderly
+  has-female-child
+  has-student
+  nobody-literate
+  rural

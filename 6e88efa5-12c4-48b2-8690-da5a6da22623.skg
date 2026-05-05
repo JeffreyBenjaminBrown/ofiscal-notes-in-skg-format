@@ -1,0 +1,6 @@
+title: the algorithm
+pid: 6e88efa5-12c4-48b2-8690-da5a6da22623
+body: |2-
+  Skip case 1, it's unrealistc.
+  The only thing changing row by row is the marginal tax rate.
+  We apply deductions and exemptions first, then marginal-tax the rest.

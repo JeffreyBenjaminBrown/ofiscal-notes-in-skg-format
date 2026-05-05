@@ -1,0 +1,11 @@
+title: raw
+pid: 91503fe3-a330-454e-84f1-29ff5fc1ba81
+body: |2-
+  cesantias + primas             # PITFALL: nominally from the employer
+  tax, ss, cajas de compensacion # PITFALL: nominally from the employer
+  tax, ss, parafiscales	    # PITFALL: nominally from the employer
+  tax, ss, solidaridad
+  tax, ss, salud
+  tax, ss, salud, employer
+  tax, ss, pension
+  tax, ss, pension, employer

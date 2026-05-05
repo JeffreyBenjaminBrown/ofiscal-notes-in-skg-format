@@ -1,0 +1,5 @@
+title: This quote appears twice in it.
+pid: 664089f0-9194-4bc7-809b-1e149db0de2f
+body: |2-
+  text = ["Se muestra el acumulado de los ingresos de esta " +
+          "administración (2015 a 2018) en cada sector."],

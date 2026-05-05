@@ -1,0 +1,9 @@
+title: 'fix: view currently doesn''t trigger add-to-requests'
+pid: da58211a-cd01-4fe1-aed8-a99657a1e4d1
+body: |2-
+    and yet this works from anywhere in the shell (in the docker container):
+  PYTHONPATH=/mnt/tax_co/                                               \
+  python3                                                               \
+  /mnt/tax_co/python/requests/main.py                                   \
+  /mnt/tax_co/users/972411cda1a01ae85f6c36b1b68118c3/config/shell.json  \
+  add-to-queue

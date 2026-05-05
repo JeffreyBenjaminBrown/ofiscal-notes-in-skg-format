@@ -1,0 +1,5 @@
+title: factor out functions from ingest_json
+pid: 584d8999-9a78-46c9-8979-2924050f1c93
+body: |2-
+  The one that makes the user folder if needed,
+  and writes the json config data to it.

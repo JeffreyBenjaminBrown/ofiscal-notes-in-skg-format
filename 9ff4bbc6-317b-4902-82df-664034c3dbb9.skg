@@ -1,0 +1,4 @@
+title: TODO automate this test
+pid: 9ff4bbc6-317b-4902-82df-664034c3dbb9
+body: |2-
+  python/regime/test.py

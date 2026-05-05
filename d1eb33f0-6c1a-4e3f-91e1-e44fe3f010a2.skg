@@ -1,0 +1,12 @@
+title: employee or contractor
+pid: d1eb33f0-6c1a-4e3f-91e1-e44fe3f010a2
+body: |2-
+  We'll call values 1, 2 and 5
+  (for some reason that's "a", "b" and "e" in the docs)
+  formal, and the others informal.
+  V1536 = P6430 in Area_ocupados
+  V1763 = P6430 in Cabecera_ocupados
+  V2372 = P6430 in Resto_ocupados
+  V1498 = P7050 in Area_ocupados     -- segundo trabajo
+  V1724 = P7050 in Cabecera_ocupados -- segundo trabajo
+  V2333 = P7050 in Resto_ocupados    -- segundo trabajo

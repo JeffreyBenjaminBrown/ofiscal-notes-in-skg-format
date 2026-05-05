@@ -1,0 +1,6 @@
+title: thoughts
+pid: a96208ad-c9fe-49e4-823d-357289a45948
+body: |2-
+  My gmail tried to send another such email.
+  The only place in the code it could be triggered from is requests.main.
+  Maybe req["user email"] is not a string?

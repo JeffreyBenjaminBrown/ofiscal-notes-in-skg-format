@@ -1,0 +1,2 @@
+title: vehicle tax should not be part of consumption tax, or at least, is not levide the same way -- it's territorial, and similar to the predial. (Also, like the predial, it is reported in the ENPH directly, not imputed by the code. We do have "impuesto de vehiculos" in the VAT spreadsheet but the rate is 0 and I don't think that row is even used to compute a 0 tax; rather, items with that COICOP code are set aside into their own "vehicle tax" variable.)
+pid: 64dca0a7-381c-4fbe-afc3-aa41ee4b8170

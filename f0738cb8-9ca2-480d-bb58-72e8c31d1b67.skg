@@ -1,0 +1,5 @@
+title: TODO check that the new code does not materially differ for 2019
+pid: f0738cb8-9ca2-480d-bb58-72e8c31d1b67
+body: |2-
+  Run it and the old code on the 2019 data;
+  compare results with .describe().

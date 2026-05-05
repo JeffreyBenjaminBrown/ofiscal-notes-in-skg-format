@@ -1,0 +1,5 @@
+title: make-goods-by-decile.sh calls both
+pid: fa64a061-9cb6-45b3-8bfe-9403c1ef8a00
+body: |2-
+  It calls the main Makefile to build whatever the other needs, using prop_2018_10_31 and 0.18
+  It calls Makefile.goods-by-decile with no parameters.

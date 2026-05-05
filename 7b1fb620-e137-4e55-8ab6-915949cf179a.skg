@@ -1,0 +1,13 @@
+title: person data
+pid: 7b1fb620-e137-4e55-8ab6-915949cf179a
+body: |2-
+  The variables defining the unit of observation in the person data are, at most, these:
+
+  V1584 DIRECTORIO
+  V1585 SECUENCIA_ENCUESTA
+  V1586 SECUENCIA_P
+  V1587 ORDEN
+
+  Again I think SECUENCIA_ENCUESTA might be irrelevant. But that still leaves the mystery of what the other two variables are. You would think one of them defines the household member. If so, though, what is the other one?
+
+  So far we seem to assume that DIRECTORIO defines the household, ORDEN defines the member, and the others can all be disregarded.

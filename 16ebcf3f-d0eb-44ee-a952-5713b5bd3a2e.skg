@@ -1,0 +1,5 @@
+title: '? tests (mostly?) do not have to be user-specific'
+pid: 16ebcf3f-d0eb-44ee-a952-5713b5bd3a2e
+body: |2-
+  PITFALL: At least one of them, rate_input_test,
+  is in fact user-specific.

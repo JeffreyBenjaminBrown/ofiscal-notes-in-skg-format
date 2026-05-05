@@ -1,0 +1,4 @@
+title: do user/../std* not get made any more?
+pid: a22ddd02-dbba-4b7d-93fd-67a4fed98d87
+body: |2-
+  If so, redirect run-makefile to write there, not in tax.co/make-logs/

@@ -1,0 +1,7 @@
+title: then compute income taxes
+pid: 300d0e31-24ba-4ecd-ae2a-0b3da14aed25
+body: |2-
+  Most income classes fall into one bucket ("income taxes, main")
+  Dividends are treated differently.
+  Ganancias ocasionales are treated differently.
+  We estimate the GMF.

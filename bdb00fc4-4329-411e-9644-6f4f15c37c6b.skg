@@ -1,0 +1,7 @@
+title: range errors in cdfs sometimes disappear when the xrange is restricted
+pid: bdb00fc4-4329-411e-9644-6f4f15c37c6b
+body: |2-
+  draw.single_cdf( x[ x<10 ], # PITFALL : not restricting x here => a range error
+                   "cdf of (spending / income) across income-earning households"
+                   , xmin = 0, xmax = 8
+                 )

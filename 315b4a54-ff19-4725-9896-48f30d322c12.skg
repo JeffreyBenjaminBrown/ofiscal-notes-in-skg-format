@@ -1,0 +1,5 @@
+title: Compare the full-sample baseline results to the current user's.
+pid: 315b4a54-ff19-4725-9896-48f30d322c12
+body: |2-
+  Do that even if the current user is using another subsample.
+  It can only help.

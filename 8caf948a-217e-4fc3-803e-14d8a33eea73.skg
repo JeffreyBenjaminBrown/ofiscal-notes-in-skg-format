@@ -1,0 +1,7 @@
+title: refs
+pid: 8caf948a-217e-4fc3-803e-14d8a33eea73
+body: |2-
+  Refer to everything in
+    ~/of/cities/Code/metadata/terms.py
+  defined after the line
+    if True: # our own aggregate categories

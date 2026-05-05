@@ -1,0 +1,5 @@
+title: 2, J
+pid: c01fd678-a991-412a-a4fc-905de689500f
+body: |2-
+  In the long term this project does not require external funding. After the two years for which we are requesting funding in this grant application, we expect to have put in place the meta-database and the program to continuously monitor it for suspicious contract activity, and to have published guides regarding, and otherwise have made known, how citizens can use the public databases and the tools we have built to monitor public contracts.
+  Thereafter we will simply leave the program running. We estimate that a single month of a single programmer-economist's time will be needed per year to maintain the program. That labor, plus the continuos use of a single server (probably on Amazon Web Services) are all that the project will require once your funding period ends. Javeriana University, our parent organization, can easily cover those costs itself.

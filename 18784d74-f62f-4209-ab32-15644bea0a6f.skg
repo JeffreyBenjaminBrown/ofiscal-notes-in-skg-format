@@ -1,0 +1,6 @@
+title: Hash each submitted configuration
+pid: 18784d74-f62f-4209-ab32-15644bea0a6f
+body: |2-
+  Based on tax config spec but not email address,
+  so that if two people submit the same request,
+  it'll be obvious.

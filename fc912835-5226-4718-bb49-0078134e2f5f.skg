@@ -1,0 +1,5 @@
+title: DONE report/compare_test.py
+pid: fc912835-5226-4718-bb49-0078134e2f5f
+body: |2-
+  Testing compare() with fake data,
+  it works.

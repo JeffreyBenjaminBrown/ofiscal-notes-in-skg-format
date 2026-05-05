@@ -1,0 +1,4 @@
+title: Rename references to it in python/
+pid: 1baf005e-0540-4ea0-b977-8c581dd29b33
+body: |2-
+  find python/ -name "*.py" -print0 | xargs -0 sed -i "s/people_4_post_households/people_4_earners_post_households/g"

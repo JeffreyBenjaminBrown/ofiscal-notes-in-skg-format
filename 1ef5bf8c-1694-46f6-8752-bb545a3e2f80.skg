@@ -1,0 +1,13 @@
+title: Why this is a good idea
+pid: 1ef5bf8c-1694-46f6-8752-bb545a3e2f80
+body: |2-
+      Here are the only routines in python.requests that depend on the user specified by shell.json:
+  lib.py:
+    this_request()
+  main.py:
+    add-to-temp-queue (section, not function)
+      It calls
+        lib.this_request().
+    try-to-advance-user
+      It passes c.user to
+        main.try_to_advance_request_queue().

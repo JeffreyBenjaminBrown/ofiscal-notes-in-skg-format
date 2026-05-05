@@ -1,0 +1,5 @@
+title: rearrange file tree
+pid: 7591f931-ea90-405a-bcac-b9a60494bc36
+body: |2-
+  I want the user to have free access to tax.co,
+  but not to any secret keys in, say, web/.

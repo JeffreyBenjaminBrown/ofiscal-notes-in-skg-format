@@ -1,0 +1,5 @@
+title: DONE what happens if a user has two completed requests in requests.csv?
+pid: ec6d7342-1e34-4cc4-81ab-c475c2c9174a
+body: |2-
+  Nothing bad happens -- they get collapsed into one before tax.co tries to delete the corresponding folder.
+  (Otherwise it would bork the next time it tries to delete the same data, because it won't be there.)

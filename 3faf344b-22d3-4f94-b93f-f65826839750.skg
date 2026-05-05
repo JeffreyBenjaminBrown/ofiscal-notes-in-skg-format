@@ -1,0 +1,6 @@
+title: TODO the logging idiom does not capture most recent test state
+pid: 3faf344b-22d3-4f94-b93f-f65826839750
+body: |2-
+  A function does not record to the log unless it completes.
+contains:
+- be8d7476-03ab-4432-9d6e-5dace7077cfd

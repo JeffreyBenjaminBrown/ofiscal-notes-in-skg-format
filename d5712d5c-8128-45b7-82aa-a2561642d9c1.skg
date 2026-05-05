@@ -1,0 +1,5 @@
+title: '"total income, monthly : infrequent" is part of cash income'
+pid: d5712d5c-8128-45b7-82aa-a2561642d9c1
+body: |2-
+  It is added into `cols_infrequent` separately,
+  because it is not part of `income_infrequent`.

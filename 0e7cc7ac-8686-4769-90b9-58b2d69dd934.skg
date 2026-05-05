@@ -1,0 +1,4 @@
+title: 'make a slightly different baseline: include dependents in the 40%, but only 25% if none'
+pid: 0e7cc7ac-8686-4769-90b9-58b2d69dd934
+body: |2-
+  for the baseline only

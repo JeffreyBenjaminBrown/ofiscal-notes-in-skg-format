@@ -1,0 +1,6 @@
+title: 7219901, Motores para veh�culo
+pid: 3c506b7b-c874-4df3-910b-3de44383a4d2
+body: |2-
+  Use two more parameters: Pr(motor diesel) & Pr(electric motor)
+  VAT could be 0, 5 or 19
+  We're guessing 15

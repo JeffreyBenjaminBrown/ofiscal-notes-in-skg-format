@@ -1,0 +1,5 @@
+title: someday mypy might work
+pid: aba1a308-1783-46ef-b31b-ddead0bc362f
+body: |2-
+  So far pandas does not provide stubs,
+  so types like pd.Series cannot be used.

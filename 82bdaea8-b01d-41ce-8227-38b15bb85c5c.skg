@@ -1,0 +1,4 @@
+title: could use S3 CLI, but it's more work
+pid: 82bdaea8-b01d-41ce-8227-38b15bb85c5c
+body: |2-
+  aws s3 cp s3://my_bucket/my_folder/my_file.ext my_copied_file.ext

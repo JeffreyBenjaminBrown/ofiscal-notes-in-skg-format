@@ -1,0 +1,15 @@
+title: deploy tax.co.web over AWS EC2
+aliases:
+- tax.co.web on EC2
+pid: dc3cf615-f76e-40ed-b20d-2ea09ba3f74b
+contains:
+- 8cbaa9f3-7522-4302-a354-b838e7e482b3
+- a0ac21a6-62a0-4ff8-818c-0bcc3879fc27
+- 0a345bb7-0157-4d2c-8c9c-dbc9304524d5
+- ecec29ee-e98c-4610-9fe9-dedd11751e9a
+- d496f2e1-8104-4068-bb3c-eec8b48b1b7f
+- 78db10b9-ca48-4159-b92e-8f60b170bdf7
+- 876bff44-c7a8-4431-b20e-b12a1656a167
+- a34e507e-dd39-47ae-aa5b-2c5328a48fd5
+misc:
+- Had_ID_Before_Import

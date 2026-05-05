@@ -1,0 +1,4 @@
+title: use [[id:a2bff01a-db10-4ada-956d-740455840caa][parallel processing in GNU make with a multi-output rule that does not create redundant processes]]
+pid: 8a7ccff3-7bbd-48ee-941d-0aafab8fa452
+body: |2-
+  Ideally, via pymake, since text manipulation is hard in make, and I need to create a list of rules from a list of targets.

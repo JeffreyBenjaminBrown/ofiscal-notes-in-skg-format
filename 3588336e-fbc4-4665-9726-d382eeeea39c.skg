@@ -1,0 +1,6 @@
+title: how to test
+pid: 3588336e-fbc4-4665-9726-d382eeeea39c
+body: |2-
+  I already set a trace in requests.main.
+  Now run it twice, first adding to temp queue,
+  then trying to advance queue.

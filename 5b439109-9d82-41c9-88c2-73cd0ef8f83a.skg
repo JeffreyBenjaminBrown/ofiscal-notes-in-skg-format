@@ -1,0 +1,7 @@
+title: 'Page 2, Choose Instance Type: lookup the cheapest, elsewhere'
+pid: 5b439109-9d82-41c9-88c2-73cd0ef8f83a
+body: |2-
+  Find the cheapest 16GB machine here:
+  https://aws.amazon.com/ec2/pricing/on-demand/
+contains:
+- 33c987ee-80bf-4f2e-9a86-f44a13fdbc02

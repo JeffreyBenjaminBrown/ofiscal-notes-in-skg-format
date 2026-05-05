@@ -1,0 +1,10 @@
+title: why I decided not to
+pid: e1e9538d-62b3-4a2f-8cd0-aebb200b697b
+body: |2-
+  It's easier to just run run-makefile twice,
+  first passing it the baseline user config.
+  That means I'll have to make the
+  [[id:43b09662-09e3-463e-814e-581d168681f5][targets in run-makefile depend on whether the email is "baseline"]],
+  but that's worth it --
+  the alternative is for one common.py file to refer to another,
+  and I have no idea how to do that.

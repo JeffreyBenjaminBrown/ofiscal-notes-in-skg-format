@@ -1,0 +1,4 @@
+title: DONE consumable_groups_by_coicop.csv should include data from coicop_major_codes.tsv
+pid: d9c3ddf5-ee0d-4174-b101-9177f5cb26b3
+body: |2-
+  And maybe that should be .csv, and the .tsv saved in the 1.dos2unix subfolder

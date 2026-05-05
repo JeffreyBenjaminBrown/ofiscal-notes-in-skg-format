@@ -1,0 +1,5 @@
+title: read shell variables from a .json file
+pid: 759dd180-cba4-4617-9efe-0111350b937f
+body: |2-
+  Using [[id:99ce91f2-fb44-4b27-89ad-388b965b00eb][jq (shell command)]].
+  See commands.sh (in the tax.co.web repo)

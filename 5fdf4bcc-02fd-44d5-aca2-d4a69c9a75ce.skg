@@ -1,0 +1,7 @@
+title: TODO the regression uses *(natural) log of yearly* income
+pid: 5fdf4bcc-02fd-44d5-aca2-d4a69c9a75ce
+body: |2-
+  so to apply them to the microsimulation,
+  first divide by 12, then take the log,
+  then apply the coefficients,
+  then exponentiate (base e).

@@ -1,0 +1,5 @@
+title: DONE test the summary data tables created in report.var_summaries_by_group
+pid: d95d97dc-f760-4488-8312-f7279697f6ff
+body: |2-
+  Even for this data (!),
+  the means for "one" and "income-decile: 0" look good.

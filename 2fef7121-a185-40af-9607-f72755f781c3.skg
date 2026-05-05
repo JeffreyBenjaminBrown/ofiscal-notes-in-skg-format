@@ -1,0 +1,10 @@
+title: TODO broken (currently unused) columns
+pid: 2fef7121-a185-40af-9607-f72755f781c3
+body: |2-
+  problems in people_1:
+    race is boolean; summarizes to NaN
+  problems in households:
+    has-child is NaN
+    has-elderly is NaN
+    has-(any race) is 0
+     this might be because race is boolean in people_1

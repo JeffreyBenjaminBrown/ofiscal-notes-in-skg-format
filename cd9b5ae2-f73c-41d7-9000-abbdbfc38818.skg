@@ -1,0 +1,5 @@
+title: keep original filename extensions
+pid: cd9b5ae2-f73c-41d7-9000-abbdbfc38818
+body: |2-
+  Currently the symlink always ends in .csv,
+  even though the file itself might end in .xlsx.

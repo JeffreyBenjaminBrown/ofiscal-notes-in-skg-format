@@ -1,0 +1,4 @@
+title: To lock a file,
+pid: 512d0f02-07f9-4903-a7bc-9363539b5abe
+body: |2-
+  save a file of the same name with ".lock" appended. Optionally, write in the file the reason it's locked.

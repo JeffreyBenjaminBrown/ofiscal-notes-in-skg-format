@@ -1,0 +1,5 @@
+title: 'TODO BUG: Why did compare.py get stuck for a day?'
+pid: df7dfba7-d32b-47c6-b7c5-9a1aedeffaec
+body: |2-
+  When I killed it, make completed, with a "terminated by user" error in the stderr file but otherwise the stdout file looked normal.
+  Does the sim not like negative tax rates? That's the only difference I see between the run that got stuck (had negative rates) and the one that merely ran compare.py three times.

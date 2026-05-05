@@ -1,0 +1,4 @@
+title: rewrite extant Makefile recipes
+pid: d2a65e7c-8c56-4906-9046-1ba39a20d846
+body: |2-
+  to use config.json and ignore the earlier Makefile arguments

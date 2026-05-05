@@ -1,0 +1,5 @@
+title: It really needs changing only in make/ and python/
+pid: ece010d7-06e3-4aa9-b889-0f41d7b7b72c
+body: |2-
+  Can ignore it in users/.
+  *Definitely* don't want to change it in .git/

@@ -1,0 +1,8 @@
+title: to change sample size in tax.co.web
+pid: 3f39bd42-4d68-41b0-879a-65f2a1cba116
+body: |2-
+  Change the default value of `subsample`
+  in the definition of `class TaxConfig`,
+  in run_make/models.py
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,5 @@
+title: BLOCKED add Haskell files
+pid: 5b2b4d59-46d6-44d6-8a66-39286506031d
+body: |2-
+  Adding them to make/deps is easy.
+  The hard part is using them in make/build.

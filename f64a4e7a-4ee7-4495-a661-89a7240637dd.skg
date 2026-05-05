@@ -1,0 +1,8 @@
+title: write year window data
+pid: f64a4e7a-4ee7-4495-a661-89a7240637dd
+body: |2-
+  Do something like this, and save the resulting range,
+  as a small muni-specific data set --
+  maybe a one row, two column frame, or (more naturally) a series.
+contains:
+- e6934875-1d5f-4cfc-a1a6-fd05176a79bf

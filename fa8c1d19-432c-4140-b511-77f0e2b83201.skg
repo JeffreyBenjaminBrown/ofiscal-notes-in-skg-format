@@ -1,0 +1,14 @@
+title: categorical variables require a "map" step only when created, not when read
+pid: fa8c1d19-432c-4140-b511-77f0e2b83201
+body: |2-
+  It's to convert them from a number to a string.
+  For instance, creating the "people" table looks like this:
+    people["race"] = pd.Categorical(
+      people["race"].map( race_key )
+      , categories = list( race_key.values() )
+      , ordered = True)
+  whereas reading it would look like this:
+    people["race"] = pd.Categorical(
+      people["race"]
+      , categories = list( race_key.values() )
+      , ordered = True)

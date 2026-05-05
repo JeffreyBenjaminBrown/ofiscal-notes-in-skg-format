@@ -1,0 +1,5 @@
+title: The header is complex.
+pid: 5b0c019f-ffe7-4f4e-b21c-d1460f40b36c
+body: |2-
+  But Pandas can read a hierarchical (multi-row) header, if told to.
+  http://blog.jjsantoso.com/pandas-excel/

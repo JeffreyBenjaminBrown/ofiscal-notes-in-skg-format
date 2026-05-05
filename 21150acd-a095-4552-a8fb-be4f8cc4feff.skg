@@ -1,0 +1,7 @@
+title: recursive import tracing
+pid: 21150acd-a095-4552-a8fb-be4f8cc4feff
+body: |2-
+  Can I encode the imports of a program as a recipe that does nothing,
+  to ensure that it is re-run whenever any of those imports changes,
+  without having to list dependencies of dependencies in each recipe
+  that actually does something?

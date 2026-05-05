@@ -1,0 +1,5 @@
+title: rename
+pid: 6e30f1ea-ceba-4fcd-b54c-b7e4acd8e471
+body: |2-
+  people/ -> people_1/
+  purchases/ -> purchases_1/

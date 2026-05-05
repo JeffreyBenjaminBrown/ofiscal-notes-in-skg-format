@@ -1,0 +1,7 @@
+title: Before and after tax reform Gini
+pid: ddde7c42-c24b-42a9-966f-b23022fcd7ef
+body: |2-
+  This is not a clearly defined goal.
+  Gini = Num / Denom where
+    Num = Sum over all i,j of |xi - xj|
+    Denom = 2 * n * (Sum over all i of xi^2)

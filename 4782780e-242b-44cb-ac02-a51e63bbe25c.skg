@@ -1,0 +1,4 @@
+title: 'PITFALL: Might need to reboot instance'
+pid: 4782780e-242b-44cb-ac02-a51e63bbe25c
+body: |2-
+  Before doing this, the Ubuntu instance didn't recognize that my non-root "ubuntu" user had docker privileges. (Maybe I could have rebooted Docker but it wasn't easy -- systemctl didn't do it, nor dockerd.)

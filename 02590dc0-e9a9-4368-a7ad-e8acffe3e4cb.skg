@@ -1,0 +1,11 @@
+title: on employment stats
+pid: 02590dc0-e9a9-4368-a7ad-e8acffe3e4cb
+body: |2-
+    Ingrid: Study, housework or incapacitated = "inactive"
+    Descopuado = could work but not looking for it.
+    Poblacion economicamente activa = of working age and working or looking for it.
+    That thing is split into ocupados & desocupados.
+    Ocupados includes everyone who works, whether paid or not.
+  o  Desocupados is everyone else. It includes "desempleo abierto" and "desempleo oculto". The first is not working & looking for it. The second is that they looked for work in the last 12 months and they have a valid reason to be discouraged and they're available to work. They (?) left out a category, people not working and not trying to do so.
+    Students are not in the poblacion economicamente activa.
+    Unemployment = # looking for work / # economicamente activa

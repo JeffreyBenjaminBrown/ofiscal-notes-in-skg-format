@@ -1,0 +1,6 @@
+title: how
+pid: 16b994e4-425a-4601-8e41-cebc0af2289b
+body: |2-
+  Find the hard drive /dev/sda1 in the EC2 instance info (in the WUI).
+  Click that -- it's a link.
+  Select "create snapshot".

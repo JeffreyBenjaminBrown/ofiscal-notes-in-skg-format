@@ -1,0 +1,9 @@
+title: tentative definition
+pid: 8a04d908-ccb9-4832-bc85-d61784c70b3c
+body: |2-
+    P6240 : 1 means they spent most of last week working. I can't tell whether it means they necessarily got paid.
+    P6250 : 1 means they spent at least an hour last week working, and got paid.
+    P6280 : 1 means they are trying to work.
+    P6350 : "Si le hubiera resultado algún trabajo a ... ¿estaba disponible la semana pasada para empezar a trabajar?"
+
+  If either of the first is equal to 1, I'll call someone employed. If neither of the first two is 1 but the third and fourth both are, I'll call them unemployed. Otherwise I'll call them not in the labor force.

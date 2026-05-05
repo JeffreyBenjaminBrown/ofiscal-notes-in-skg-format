@@ -1,0 +1,4 @@
+title: the problem
+pid: 69fdd99b-8f0f-4497-8012-6632506892c2
+body: |2-
+  I might mutate reqs in a function, then pass it as an argument to another function, with no read or write step. Therefore the receiving function still has to canonicalize.

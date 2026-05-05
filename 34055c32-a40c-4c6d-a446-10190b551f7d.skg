@@ -1,0 +1,18 @@
+title: untaxed
+pid: 34055c32-a40c-4c6d-a446-10190b551f7d
+body: |2-
+  P7513S11A1 : "income, year : infrequent : refund, tax
+  P7500S3A1 : "income, month : private : alimony"
+  P8612S2 : "income, year : edu : non-beca, in-kind" # (nothing called "subsidio" is taxed)
+  P8612S1 : "income, year : edu : non-beca"          # (nothing called "subsidio" is taxed)
+  P9460S1 : "income, month : govt : unemployment"
+  P1668S1A1 : "income, year : govt : familias en accion"
+  P1668S3A2 : "income, year : govt : familias en su tierra"
+  P1668S4A2 : "income, year : govt : jovenes en accion"
+  P1668S2A2 : "income, year : govt : programa de adultos mayores"
+  P1668S5A2 : "income, year : govt : transferencias por victimizacion"
+  P1668S1A4 : "income, year : govt : familias en accion, in-kind"
+  P1668S3A4 : "income, year : govt : familias en su tierra, in-kind"
+  P1668S4A4 : "income, year : govt : jovenes en accion, in-kind"
+  P1668S2A4 : "income, year : govt : programa de adultos mayores, in-kind"
+  P1668S5A4 : "income, year : govt : transferencias por victimizacion, in-kind"

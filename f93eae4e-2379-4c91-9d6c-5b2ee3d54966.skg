@@ -1,0 +1,4 @@
+title: file:///home/jeff/of/tax.co.web/studies/dynamic-table.html
+pid: f93eae4e-2379-4c91-9d6c-5b2ee3d54966
+body: |2-
+  Bug: deleting an early one and then inserting gets the order wrong.

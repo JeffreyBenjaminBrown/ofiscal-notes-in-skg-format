@@ -1,0 +1,6 @@
+title: '7110102 : make a parameter equal to the maximum of 0 and the premium expressed as a fraction of the earlier price. Initially we''ll use 0.'
+pid: b75ffe0a-163d-4395-86b1-f0da27a70327
+contains:
+- d3ed80d3-4c58-4e32-9a70-dd5b26eaedb2
+- a05dbba1-4c2b-4708-817b-57d1431a8cf8
+- ae906c40-1688-4955-bbeb-f6819dbcaba4

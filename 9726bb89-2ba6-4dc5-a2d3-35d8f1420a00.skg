@@ -1,0 +1,10 @@
+title: 3, J, text
+pid: 9726bb89-2ba6-4dc5-a2d3-35d8f1420a00
+body: |2-
+  The first stage of the project is to assemble a meta-database integrating the data from Colombia's many public databases of public contracts. Once the meta-database is in place, a number of analytical and engineering can proceed in parallel:
+  (-) Manually study the data, especially its summary statistics and instances of outliers.
+  (-) Use econometrics and machine-learning to identify patterns of suspicious contract acitivity, such as contracts that are highly overvalued relative to others with similar deliverables.
+  (-) Develop a system to automatically run such detection algorithms and publish its results online.
+  (-) Make our meta-database and the automatically detected anomalies available online, and build a user interface for the public to access them.
+  Toward the end of those analytical and engineering tasks, we will begin a communication campaign similar to the many we have already executed. We will publish an illustrated layperson's guide to navigating both our primary sources and the meta-database we will have made available. We will provide blog posts and engage in informal social media efforts. We will communicate with the media and lawmakers. We will host seminars and colloquia.
+  Once these efforts are complete, we expect citizens to use our tools to oversee government activities, and for the government and its contractors to be highly aware of that oversight, and to act accordingly.

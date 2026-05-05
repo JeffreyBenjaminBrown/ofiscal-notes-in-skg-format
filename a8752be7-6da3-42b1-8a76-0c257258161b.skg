@@ -1,0 +1,15 @@
+title: answer
+pid: a8752be7-6da3-42b1-8a76-0c257258161b
+body: |2-
+  There are 5 types of “beneficios”:
+
+  (*) Renta exenta: 25% of “renta gravable laboral” (this deduction always operate)
+  (*) GMF paid: value paid in GMF in a year
+  (*) Dependents: 10% of “renta gravable laboral” until 32 UVT
+
+  The rest we don't have:
+  (*) Mortgage interest: value paid in interest in a year if the person have a mortgage (I think we do not have this information)
+  (*) Prepaid medicine: value paid in prepaid medicine if the person have this service (I think we do not have this information)
+  (*) AFC and pensiones voluntarias: value saved in “Cuentas de Ahorro para el Fomento de la Construcción” and in “Fondos voluntarios de pensión” with some conditions (I think we do not have this information)
+
+  All these benefits added can’t be more tan 40% of “renta gravable laboral” or 5040 UVT

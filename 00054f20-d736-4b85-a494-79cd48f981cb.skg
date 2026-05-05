@@ -1,0 +1,4 @@
+title: Rename references to it in make/
+pid: 00054f20-d736-4b85-a494-79cd48f981cb
+body: |2-
+  find make/ -name "Makefile.*" -print0 | xargs -0 sed -i "s/people_4_post_households/people_4_earners_post_households/g"

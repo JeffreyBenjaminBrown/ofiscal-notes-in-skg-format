@@ -1,0 +1,12 @@
+title: 'DONE BUG: Comparison comes up empty.'
+pid: 7b2fc30e-9ca5-423b-9ebb-e0afcd1756f0
+body: |2-
+  Look at high-tax-user, low-tax-user and baseline.
+contains:
+- 1931cb35-17f7-46ac-9114-49e6cd6beed8
+- c73c87f7-b294-4fa6-82fd-b302c8c96b2d
+- b67f8560-ed8d-49c3-8477-0686a12d3f93
+- fc912835-5226-4718-bb49-0078134e2f5f
+- d95d97dc-f760-4488-8312-f7279697f6ff
+- b247e477-3bbf-450d-88fc-8dfd485df5d4
+- 57d672f7-097f-4639-8440-385d6de89870

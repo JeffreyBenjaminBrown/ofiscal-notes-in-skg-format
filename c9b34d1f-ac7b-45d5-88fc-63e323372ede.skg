@@ -1,0 +1,5 @@
+title: TODO pension variables are bad
+pid: c9b34d1f-ac7b-45d5-88fc-63e323372ede
+body: |2-
+  They're missing a lot, so their averages aren't right.
+  But we don't use them.

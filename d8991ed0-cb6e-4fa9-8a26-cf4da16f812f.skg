@@ -1,0 +1,5 @@
+title: un-hardcode this path
+pid: d8991ed0-cb6e-4fa9-8a26-cf4da16f812f
+body: |2-
+  secrets_path = "/mnt/apache2/secret"
+  in tax.co/python/email.py

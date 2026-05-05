@@ -1,0 +1,7 @@
+title: DONE create a "(could be claimed as a) dependent" variable
+pid: 703d274a-ebbe-404f-9a3a-97b7aca2aae8
+body: |2-
+  age < 18 => dependent
+  age < 23 && student => dependent
+  family member or partner && income < 260 UVT => dependent
+  child & disabled => dependent

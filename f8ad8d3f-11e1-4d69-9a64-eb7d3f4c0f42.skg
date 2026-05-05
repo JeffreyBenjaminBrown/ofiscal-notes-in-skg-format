@@ -1,0 +1,5 @@
+title: concat v. append
+pid: f8ad8d3f-11e1-4d69-9a64-eb7d3f4c0f42
+body: |2-
+  Neither forces you to specify the axis.
+  Concat is more general.

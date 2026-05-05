@@ -1,0 +1,4 @@
+title: Know if someone closes the page
+pid: 8e50df08-05ac-481e-9bd3-ad8eb8105c6d
+body: |2-
+  If so, stop the process and delete their folder.

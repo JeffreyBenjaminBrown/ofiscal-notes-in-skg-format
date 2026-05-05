@@ -1,0 +1,4 @@
+title: algorithm
+pid: 46a0d684-30e7-4a3f-8e2f-b52c0748450c
+body: |2-
+  There are three kinds of SS contribs, and two kinds of employee (salaried and contractor). Both pay all three if they make enough money. Salaried employees' employers contribute some also. The rates change at certain thresholds. The tax rate for SS contrib's is tax / income for contractors, and tax / (employer burden = income + employer contrib's) for employees.

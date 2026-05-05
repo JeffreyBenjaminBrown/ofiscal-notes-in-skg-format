@@ -1,0 +1,9 @@
+title: person-level location data for ENIG available from GEIH
+pid: 01c9cc7a-bff4-4492-8dec-793e9f3b5ce2
+body: |2-
+  David Suarez wrote:
+
+  The location variables are a little bit more difficult to get, since they are not directly available in the tables: the sample of households used in these surveys is a subsample taken from a more general survey (the GEIH) that contains the key variables to present our results by region (as well as other variables that we could use). You can find the GEIH for 2007,2016 and 2017  in the following links (they are presented by month, so we have to append the files to get the complete survey):
+   http://microdatos.dane.gov.co/index.php/catalog/317/get_microdata (GEIH 2007)
+   http://microdatos.dane.gov.co/index.php/catalog/427/get_microdata (GEIH 2016)
+   http://microdatos.dane.gov.co/index.php/catalog/458/get_microdata (GEIH 2017)

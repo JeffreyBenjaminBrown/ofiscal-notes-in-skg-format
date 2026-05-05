@@ -1,0 +1,6 @@
+title: the same ?bug shows up in these files
+pid: 4c51f090-25be-44dc-b23b-f6480a4b1c8b
+body: |2-
+  python/build/purchases/collect.py
+  python/build/purchases/correct_test.py
+  python/build/purchases_2_vat_test.py

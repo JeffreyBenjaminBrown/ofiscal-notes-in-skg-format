@@ -1,0 +1,6 @@
+title: if it's not rerunning after editing a requirement
+pid: 8dc03e0d-1cfa-43ea-b4a2-b662f75f8519
+body: |2-
+  I checked out some earlier commits to see if they had the same problem. (They didn't.)
+  Then I checked out the latest commit, and the problem vanished.
+  (That was the master branch, on 2020 April 29-30.)

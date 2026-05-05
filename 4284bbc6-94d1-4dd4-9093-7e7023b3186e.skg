@@ -1,0 +1,7 @@
+title: DONE ? Can we look within the top 1%
+pid: 4284bbc6-94d1-4dd4-9093-7e7023b3186e
+body: |2-
+  See program
+    python/exemplar/zoom_top_quantile.py
+  which outputs to
+    zoom-in-on-rich/

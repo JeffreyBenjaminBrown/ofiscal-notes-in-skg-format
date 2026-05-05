@@ -1,0 +1,4 @@
+title: TODO break out predial and vehiculos, and don't use other "value" taxes.
+pid: f79d31ec-780a-4d67-8715-74028721ae81
+body: |2-
+  where "don't use" = "don't propogate into aggregate tax figures"

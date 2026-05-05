@@ -1,0 +1,4 @@
+title: Why are some paths being read as files at /?
+pid: 43003dfb-8311-40d1-b9cc-b15760f35b84
+body: |2-
+  They should be deeper in the tree.

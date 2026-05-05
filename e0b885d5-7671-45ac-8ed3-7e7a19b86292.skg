@@ -1,0 +1,6 @@
+title: DONE NEXT all* output should go to a specific user's folder
+pid: e0b885d5-7671-45ac-8ed3-7e7a19b86292
+body: |2-
+    * except the subsample, which is slow and extremely initial
+contains:
+- a2e8c0d9-a771-4e63-8fb9-a3371d7ee608

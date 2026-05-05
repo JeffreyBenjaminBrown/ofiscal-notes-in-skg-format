@@ -1,0 +1,4 @@
+title: offline
+pid: 1774557c-ada1-458a-99f8-1a7b9de3dedc
+body: |2-
+  http://localhost:8000/microsim/run_make/manual_ingest

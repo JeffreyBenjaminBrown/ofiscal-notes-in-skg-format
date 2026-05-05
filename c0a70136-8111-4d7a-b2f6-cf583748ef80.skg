@@ -1,0 +1,6 @@
+title: the current situation
+pid: c0a70136-8111-4d7a-b2f6-cf583748ef80
+body: |2-
+  Most of the build code is devoted to creating a person-level data set. Once that's done there are two programs for building household-level data, and then one more to summarize them in a report.
+
+  The two household-building programs take a lot of means, mins and maxes -- "is there a child" is a max, "is it all women" is a min, etc. It also computes income taxes and a lot of VAT variables.

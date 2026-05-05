@@ -1,0 +1,13 @@
+title: restructure programs for testing
+pid: 37417c1b-7639-49a2-bb6d-e223a029f7d3
+body: |2-
+  so that it's like this:
+
+  Most of the program consists of one big function definition.
+    Maybe it calls sub-functions.
+    If so, they should be defined outside it,
+    so that they can be tested separately.
+  The big function's inputs and outputs are data frames.
+  After those definitions, there's is a read-data step,
+    which is not tested (because how could it be).
+  Then the function is applied to the data, and the results saved somewhere.

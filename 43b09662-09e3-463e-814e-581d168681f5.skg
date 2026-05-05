@@ -1,0 +1,6 @@
+title: run-makefile should only make the "compare" target if
+pid: 43b09662-09e3-463e-814e-581d168681f5
+body: |2-
+  the user_email is not "baseline".
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: absurdly big purchase numbers
+pid: 9f9ca308-25b3-47a6-8e35-28224d67cc6d
+body: |2-
+  absurdly_big_expenditure_threshold = 1e9 # MAGIC
+  Something in the full sample has a quantity value of 9e7.
+  Currently I don't throw out any quantities, just expenditures.

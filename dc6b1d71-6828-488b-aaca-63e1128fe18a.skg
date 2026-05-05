@@ -1,0 +1,7 @@
+title: adjust that S3 bucket
+pid: dc6b1d71-6828-488b-aaca-63e1128fe18a
+body: |2-
+  Update the repos with git.
+  If necessary, rebuild the Docker image.
+    I think this is faster than transferring it.
+  Replace the data on S3.

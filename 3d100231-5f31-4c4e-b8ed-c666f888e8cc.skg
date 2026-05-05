@@ -1,0 +1,5 @@
+title: The output
+pid: 3d100231-5f31-4c4e-b8ed-c666f888e8cc
+body: |2-
+  "vat paid" is already part of the overview table that the makefile produced.
+  Changes in expenditures, we assume, are zero.

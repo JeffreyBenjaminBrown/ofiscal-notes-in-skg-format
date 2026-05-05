@@ -1,0 +1,5 @@
+title: HANDY snippets
+pid: bd5c382f-086c-49bb-aede-0e5fcedf7c8f
+body: |2-
+  pd.set_option('display.max_rows', 200)
+  pd.set_option('display.min_rows', 200)

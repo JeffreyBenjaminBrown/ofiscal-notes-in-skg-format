@@ -1,0 +1,6 @@
+title: why it's safe to ignore for now
+pid: 429fa53a-30c0-4171-a822-2c0c95eae625
+body: |2-
+  In almost every variable in both people (income) and purchases (value), these error codes do not appear.
+  In the few variables where they do, they make up a miniscule fraction of observations -- the highest I saw was 0.2%.
+  And 98 or 99 pesos is almost no money, so including it in someone's total income or total purchase value is not going to meaningfully change the total.

@@ -1,0 +1,4 @@
+title: use InRange, CoversRange, MeanBounds, MissingAtMost
+pid: ac98ea7a-f953-4951-a5fc-3173ca673fe5
+body: |2-
+  for all new or changed vars.

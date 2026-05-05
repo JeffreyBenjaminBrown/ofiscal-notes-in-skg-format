@@ -1,0 +1,8 @@
+title: simpler taxes
+pid: 80670057-b58c-446c-86f5-00c1723887e3
+body: |2-
+  implemented per "income tax.hs"
+contains:
+- b4a51b4b-f3d4-4794-8cb1-1285383a607a
+- ece68c43-ad8f-4122-b897-2c0f704abe2c
+- 264f9c81-80df-4dee-b8ad-687fb0503aac

@@ -1,0 +1,4 @@
+title: may need to os.chdir to /mnt/tax_co
+pid: 0cb42775-5970-435a-9ddb-5fef9d540db3
+body: |2-
+  once running python from a different python

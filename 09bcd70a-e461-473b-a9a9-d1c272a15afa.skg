@@ -1,0 +1,7 @@
+title: this would work
+pid: 09bcd70a-e461-473b-a9a9-d1c272a15afa
+body: |2-
+       pip install -U <pip-installed packages from the Dockerfile>
+       pip3 install --upgrade  csv-diff pydotplus graphviz \
+  weightedcalcs yfinance yahoofinancials            \
+  surbtc django icecream

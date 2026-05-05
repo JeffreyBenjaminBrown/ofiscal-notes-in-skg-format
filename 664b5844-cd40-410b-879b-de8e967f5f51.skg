@@ -1,0 +1,4 @@
+title: TODO use os.path.join to join paths
+pid: 664b5844-cd40-410b-879b-de8e967f5f51
+body: |2-
+  It handles the problem of whether a subpath ends in '/' or not.

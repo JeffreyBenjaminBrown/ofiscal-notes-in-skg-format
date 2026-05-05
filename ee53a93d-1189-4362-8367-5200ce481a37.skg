@@ -1,0 +1,8 @@
+title: temporarily hold new requests in a briefly-accessed file
+pid: ee53a93d-1189-4362-8367-5200ce481a37
+body: |2-
+  Keep a file next to requests.csv called requests.new.csv.
+  Each time a user submits a request,
+  add it to requests.new.csv, rather than requests.csv.
+  Each time the cron job runs, it transfers from requests.new.csv to requests.csv.
+  The advantage of this is that the file is never needed for very long, so no process will meaningfully block another.

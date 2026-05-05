@@ -1,0 +1,8 @@
+title: DONE bug-2021-04-19-permission-denied-on-browser-serving-locally
+pid: 6a432951-5917-4a57-96fa-2a8d8cbf740a
+body: |2-
+  Once that's solved, remember to uncomment the portion of ports.conf that allows serving online.
+contains:
+- 92048384-6575-429f-bb22-0cc494a69e20
+- 708cf6c6-8327-47c9-8b4f-24eb23dff8c6
+- 3e9dbf64-9f00-47e7-a6bc-17379df33262

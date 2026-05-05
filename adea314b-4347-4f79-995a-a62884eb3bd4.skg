@@ -1,0 +1,10 @@
+title: for tomorrow
+pid: adea314b-4347-4f79-995a-a62884eb3bd4
+body: |2-
+  2016 DANE
+  2018 DANE
+  2016 DIAN: replicate all income taxes, + ss contribs for employee + simulate employer ss contribs
+    and include original income taxes
+  2018 DIAN: simulate  all income taxes, + ss contribs for employee + simulate employer ss contribs
+    and include original 2016 income taxes
+  Use 2017 value of UVT for all DIAN stuff.

@@ -1,0 +1,4 @@
+title: to identify dependents, we assume ...
+pid: 2a502572-a4ca-448f-976d-3bf05783f3b8
+body: |2-
+  The tax code is ambiguous -- does a high-income disabled person still be claimed as a dependent? Do they pay taxes? Can they in turn claim dependents? We assume no, yes and yes. See build.people.main for details.

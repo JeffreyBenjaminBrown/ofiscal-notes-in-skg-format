@@ -1,0 +1,4 @@
+title: if you earn more than 2e6 CGG, you have to declare taxes
+pid: cc6b7319-142c-4e1c-8e86-cb145bb7e758
+body: |2-
+  CGG = labor income - SS - 2e6 - 1e6 * #dependents

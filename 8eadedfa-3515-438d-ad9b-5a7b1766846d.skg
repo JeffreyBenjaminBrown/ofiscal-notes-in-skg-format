@@ -1,0 +1,7 @@
+title: DONE Don't modify the Makefile, but create a new user.
+pid: 8eadedfa-3515-438d-ad9b-5a7b1766846d
+body: |2-
+  Call the user "baseline" (no ampersand needed).
+  Check user/baseline/ into git.
+  In run-makefile.py, first run on baseline,
+  then on the current user.

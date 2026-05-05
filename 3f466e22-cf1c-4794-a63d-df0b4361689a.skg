@@ -1,0 +1,4 @@
+title: CANCELED change import path to see the db functions
+pid: 3f466e22-cf1c-4794-a63d-df0b4361689a
+body: |2-
+  Hard to do. Instead, call tax.co/python/requests from tax.co.web

@@ -1,0 +1,6 @@
+title: simple solution
+pid: 78f557ea-fe1f-4d34-bef8-2bcaf2cff450
+body: |2-
+  Split VAT proportionally to income.
+  If income is zero for everyone,
+  divide it equally among people aged > 17.

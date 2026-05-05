@@ -1,0 +1,5 @@
+title: the problem
+pid: e1f1e5d3-57b0-4d4f-a9c8-37833fa9edb5
+body: |2-
+  For 6 out of 86439 observations,
+  earners["share"] is less than 0.7.

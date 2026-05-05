@@ -1,0 +1,5 @@
+title: 'storage: 60 GB'
+pid: 4d5d5170-09d4-4ec4-a467-9c8e2daa35a4
+body: |2-
+  Using 45 with Ubuntu (which is slimmer than Amazon Linux) I ran into the ceiling when unpacking the docker images.
+  10 GB without anything fancy is $1/mo.

@@ -1,0 +1,10 @@
+title: the raw data
+pid: 68a3eeaa-4af9-4521-83b6-d0b945917892
+body: |2-
+  ENPH = Encuesta Nacional de Presupuestos de Hogares, por el DANE
+  It's rich, but cleaning it is hard. I've left out a lo of annoying details from this description.
+  Really we ought to be sharing the data, not just our results, as it's silly that others who use the same data have to duplicate so much of my work.
+contains:
+- d32d8513-f23c-4dc0-bcef-9f06a1aba76e
+- 9c522465-f5b0-4283-bb2f-00783bccc497
+- 63ea0383-3381-4c59-8e5f-6fac5c524d26

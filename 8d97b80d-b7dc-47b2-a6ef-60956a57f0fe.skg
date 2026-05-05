@@ -1,0 +1,12 @@
+title: Unemployed
+pid: 8d97b80d-b7dc-47b2-a6ef-60956a57f0fe
+body: |2-
+  Any of the following qualify. The first is the bulk of them.
+
+  - During the past four weeks, actively searching for a job and available last week to start in case of success;
+    P6240 : time use # 2 = buscando trabajo
+    P6350 : available to work # 1 = available
+
+  - Employed at least 2 weeks over the last 12 months, has actively searched after last job and was available last week to start in case of success;
+
+  - Not employed at least 2 weeks over the last 12 months, has actively searched after last job and was available last week to start in case of success.

@@ -1,0 +1,7 @@
+title: use this rule in Makefile.deps
+pid: f6d782ba-a8ec-49d0-a37c-06a680a23f31
+body: |2-
+  [ -f $@ ] && touch $@
+  That way I don't have to keep the parallel .no_younger_than folder.
+contains:
+- 0321eca3-9e0b-4f5e-9ea4-04f6bc40c0a8

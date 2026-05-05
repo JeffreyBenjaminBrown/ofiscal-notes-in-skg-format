@@ -1,0 +1,11 @@
+title: TODO What does "otros impuestos" include?
+pid: e6827cc3-06e1-4ac5-b71d-51c38543232c
+body: |2-
+  They represent a small but nonzero part of expenditures --
+  see build/purchase_sums.py.
+
+  From the coicop bridge:
+    "Impuesto predial y de valorizaci�n de la(s) vivienda(s) ocupada(s) por el hogar";12700601;0;0;0;
+    Impuestos del vehiculo;12700602;0;0;0;
+    Impuesto de renta;12700603;0;0;0;
+    Otros impuestos (de timbre, etc);12700699;0;0;0;

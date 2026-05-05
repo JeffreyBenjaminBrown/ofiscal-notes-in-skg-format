@@ -1,0 +1,10 @@
+title: the work
+pid: c88b84ae-e527-4818-8847-75427a53f952
+body: |2-
+  See if unexecuted requests exist.
+  If so, see if it can be run yet.
+  If there's room for another already, run the oldest unexecuted request.
+  If there's no room, but some request is old enough to be deleted,
+  then delete it from requests.csv and users/,
+  and then run the oldest unexecuted request.
+  Once the request has executed, mark it complete.

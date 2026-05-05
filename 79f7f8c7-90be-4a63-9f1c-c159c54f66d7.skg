@@ -1,0 +1,5 @@
+title: rename ingest_spec -> ingest_json
+pid: 79f7f8c7-90be-4a63-9f1c-c159c54f66d7
+body: |2-
+  and move it to "examples",
+  and then start on "ingest_spec", which ingests both json and tables

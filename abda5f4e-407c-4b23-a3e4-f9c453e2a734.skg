@@ -1,0 +1,5 @@
+title: '"home purchase value" is, if present, not encoded via COICOP'
+pid: abda5f4e-407c-4b23-a3e4-f9c453e2a734
+body: |2-
+  >>> (purchases["coicop"] == "12610104").mean()
+  0.0

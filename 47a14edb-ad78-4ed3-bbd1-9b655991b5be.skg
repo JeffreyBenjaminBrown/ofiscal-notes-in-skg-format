@@ -1,0 +1,6 @@
+title: vat_rates.py
+pid: 47a14edb-ad78-4ed3-bbd1-9b655991b5be
+body: |2-
+  vat_rates.py creates our vat keys: the files vat_coicop*.S.csv and vat_cap_c*.S.csv, where * is "" or "_brief", and S is the vat_strategy suffix. The vat_cap_c files use 8-digit coicop codes, not 2- or 3-digit approximations. These files are created for every VAT strategy, whether or not they are used downstream. That's a tiny inefficiency, because they are tiny files.
+
+  However, to actually *use* those vat keys in the case of the const strategies is very inefficient. Better would be to use no key at all.

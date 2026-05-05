@@ -1,0 +1,9 @@
+title: each file's unit test
+pid: feb83098-be7c-46e8-9068-35536b4dbd15
+body: |2-
+  The test for each program file will be long.
+  It will begin by making a dummy dataset,
+  full of zeroes, one row long, with all needed columns.
+  Then, for each part of the file, there will be a sub-test.
+  For each such sub-test, include a name or comment in the file being tested,
+  so that it's clear which test corresponds to which part of the function.

@@ -1,0 +1,7 @@
+title: remove some now-obsolete shell.json params
+pid: bb500f75-5ec9-422f-a7da-66acbcf1da55
+body: |2-
+  "vat_by_coicop"         : "data/vat/vat-by-coicop.csv",
+  "vat_by_capitulo_c"     : "data/vat/vat-by-capitulo-c.csv",
+  (and change all the code that used to depend on those,
+  to use the symlinks instead)

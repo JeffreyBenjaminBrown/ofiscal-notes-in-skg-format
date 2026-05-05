@@ -1,0 +1,7 @@
+title: where the bug happens
+pid: 893df4e3-ed40-435a-8621-4116fcc803f4
+body: |2-
+  The last commit that works:
+    89a231c3bda51c3e245e1991a57b1b3f814cd3be
+  The first that fails:
+    cb0e71e9ee3b3f9253cf2c21e376c7759e3ef6f0

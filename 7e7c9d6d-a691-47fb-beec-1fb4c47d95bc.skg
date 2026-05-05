@@ -1,0 +1,4 @@
+title: 'Ponder: idle user time, parallelism'
+pid: 7e7c9d6d-a691-47fb-beec-1fb4c47d95bc
+body: |2-
+  Should the website pause while the model is computed?

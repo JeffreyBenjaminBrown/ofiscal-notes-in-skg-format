@@ -1,0 +1,6 @@
+title: targets misspelled will fail silently
+pid: 70e1b11d-d7c8-4d70-ba5a-d12b04fd9d5e
+body: |2-
+  If a target is misspelled in the recipe to make it,
+  then it will never be rebuilt, but the old version will be found,
+  so things depending on it will not run again when it is modified.

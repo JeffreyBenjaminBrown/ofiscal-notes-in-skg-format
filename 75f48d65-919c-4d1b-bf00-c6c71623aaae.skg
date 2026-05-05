@@ -1,0 +1,6 @@
+title: Define `indata` and `outdata` in Code.common
+pid: 75f48d65-919c-4d1b-bf00-c6c71623aaae
+body: |2-
+  This way, if I ever introduce more structure (e.g. not just vintage)
+  that depends on CL arguments to the paths I'm using,
+  I won't have to change a million paths.

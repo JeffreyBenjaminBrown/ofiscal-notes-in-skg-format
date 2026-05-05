@@ -1,0 +1,6 @@
+title: TODO remove layers of indirection in people/main.py
+pid: fc483a0a-9ffe-4be4-a327-73b96114b645
+body: |2-
+  There are too many definitions like income_short_name_dict_cash.
+  They make refactoring a nightmare.
+  Unless such a thing gets used many times, don't bother defining it.

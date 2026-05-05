@@ -1,0 +1,4 @@
+title: test that it ingested properly
+pid: 071ceacd-6502-4a9a-ab03-8060c5f6945f
+body: |2-
+  I can first leave all the Makefile recipes that use the command line-defined arguments in place. They don't need to use config.json yet. Instead just add a recipe that calls a new .py file that reads the json, defines some variables, and prints them to screen.

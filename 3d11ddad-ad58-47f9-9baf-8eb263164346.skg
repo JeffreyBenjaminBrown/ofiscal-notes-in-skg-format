@@ -1,0 +1,5 @@
+title: peurchase_sums["value, tax, purchaselike non-VAT"] = (
+pid: 3d11ddad-ad58-47f9-9baf-8eb263164346
+body: |2-
+  purchase_sums["value, tax, predial"] +
+  purchase_sums["value, tax, purchaselike non-predial non-VAT"] )

@@ -1,0 +1,8 @@
+title: for the income taxes
+pid: eac0bd35-3794-4c7d-8356-66e0291e57fb
+body: |2-
+  Tasa          Min (COP)      Max (COP)
+  0             0               4,000,000
+  0.2           4,000,000      10,000,000
+  0.3           10,000,000     Infinito
+  <Agrega nueva fila>

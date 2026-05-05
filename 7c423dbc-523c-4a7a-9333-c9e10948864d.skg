@@ -1,0 +1,26 @@
+title: 'Explain in paper (the sim is fine): regarding exemptions (e.g. the child exemption), it''s not 0.25 to 0.4 of gross income that can be exempted, but rather that fraction of income after removing payments to pension, health and solidaridad.'
+pid: 7c423dbc-523c-4a7a-9333-c9e10948864d
+body: |2-
+      Actually it's even more complex but that's the approximation we use.
+
+    temp_columns["renta liquida"] = (
+      # This is taxable labor income before exemptions.
+      ( ( ppl["income, labor"]
+        - ppl["tax, ss, total employee contribs"] )
+      ) )
+
+  def cgg_detail ( row: pd.Series ) -> float:
+    """
+    You can't deduct more than 5040 UVTs.
+    You can deduct somewhere between 25% and 40%,
+    and we don't know what you'll arrive at, so we assume the average, 32.5%.
+    After that you can deduct an additional 10% of what's left,
+    or 32 UVTs, whichever is smaller.
+    """
+    a1 = row ["renta liquida"] - 5040 * muvt
+    x  = row ["renta liquida"] * (1 - 0.325)
+    a2 = ( x
+           if   not row["claims dependent (labor income tax)"]
+           else x - min ( 0.1 * x,
+                          32 * muvt ) )
+    return max ( 0, a1, a2 )

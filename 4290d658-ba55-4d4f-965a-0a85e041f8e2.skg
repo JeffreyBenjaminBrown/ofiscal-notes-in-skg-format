@@ -1,0 +1,7 @@
+title: Its errors are of content, not just formatting.
+pid: 4290d658-ba55-4d4f-965a-0a85e041f8e2
+body: |2-
+  e.g. even after stripping out non-numeric characters,
+  someone's cedula can be wrong.
+misc:
+- Had_ID_Before_Import

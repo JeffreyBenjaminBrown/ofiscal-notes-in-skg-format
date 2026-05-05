@@ -1,0 +1,7 @@
+title: motivating example
+pid: 82e0c95e-2881-45c4-8315-24166d7972aa
+body: |2-
+  in ./build/vat_rates.py:
+    vat_coicop = pd.read_csv( "data/vat/" + "vat-by-coicop.csv"
+                            , sep = ";" # TODO PITFALL
+                            , encoding = "latin1" )

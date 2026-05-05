@@ -1,0 +1,9 @@
+title: git
+pid: 17f2f2a0-efe4-4d67-8728-a08ce833383f
+body: |2-
+  git config --global core.editor "emacs -nw"
+    (details [[id:70269641-9c54-4bd8-93f8-6554005a913c][here]])
+  Copy ~/.ssh/id_rsa from my home system to the new system.
+  chmod 600 ~/.ssh/id_rsa
+  git repos: checkout the appropriate branches, update them
+    Add my user name and email (Git will say how when I try to push).

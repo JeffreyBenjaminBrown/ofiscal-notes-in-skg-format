@@ -1,0 +1,10 @@
+title: '5310101'
+pid: e95e5082-7910-4751-bf7b-2a56d27105af
+body: |2-
+  DS guesses 19% more often
+  5% if:
+    price < (30 uvt (unidad de valor tributario), aprox. $955800 COP)
+    AND estrato <= 3
+    AND gave back old fridge when made this purchase (not knowable in our data)
+  19% otherwise
+  c.f article 468.1 of tax code

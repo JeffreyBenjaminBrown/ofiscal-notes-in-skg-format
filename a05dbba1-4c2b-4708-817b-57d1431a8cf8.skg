@@ -1,0 +1,7 @@
+title: what I wrote after talking to David
+pid: a05dbba1-4c2b-4708-817b-57d1431a8cf8
+body: |2-
+  = second hand purchases of vehicles
+  Suppose Manufacturer sells to Alice (an ordinary person), and Alice sells to Bob. Alice paid PA, which is equal to PM (what the manufacturer collects) + TA (VAT charged to Alice). Then Bob pays PB, which equals ...
+
+  okay something like that. Alice paid X. Now Alice sells to Bob. Alice collects Y from Bob. If Y > X, then Bob pays VAT equal to 0.19*(Y-X).

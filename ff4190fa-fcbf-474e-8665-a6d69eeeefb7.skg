@@ -1,0 +1,4 @@
+title: updating it
+pid: ff4190fa-fcbf-474e-8665-a6d69eeeefb7
+body: |2-
+  git fetch origin pull/1/head && git checkout FETCH_HEAD

@@ -1,0 +1,12 @@
+title: 'bugfix: delete the oldest *extant* user'
+pid: 51d7d5fb-baa0-4558-8bdf-463b6d77f902
+body: |2-
+  Call it liek this
+  (but change the value "4" to whatever is appropriate).
+
+  PYTHONPATH=/mnt/tax_co/ python3         \
+    /mnt/tax_co/python/requests/main.py   \
+    /mnt/tax_co/users/1/config/shell.json \
+    try-to-advance
+misc:
+- Had_ID_Before_Import

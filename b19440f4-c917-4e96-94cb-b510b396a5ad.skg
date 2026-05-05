@@ -1,0 +1,5 @@
+title: aggregate purchases within person
+pid: b19440f4-c917-4e96-94cb-b510b396a5ad
+body: |2-
+  At this stage we lose the detail about what was bought.
+  If we wanted to analyze purchases, we'd do the reverse -- sum for each type of good across people -- but so far our unit of analysis is the hogar, not the good or service.

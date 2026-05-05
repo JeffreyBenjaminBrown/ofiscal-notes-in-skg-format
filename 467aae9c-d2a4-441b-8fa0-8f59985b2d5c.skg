@@ -1,0 +1,6 @@
+title: show Makefile errors if build fails
+pid: 467aae9c-d2a4-441b-8fa0-8f59985b2d5c
+contains:
+- df1a8278-1f15-4e66-8882-d27bedf82347
+- 21f0faf0-7c81-47d9-ab4a-18a2c828d026
+- 82dda4cf-371f-491e-a8f4-6cd02b2f7d17

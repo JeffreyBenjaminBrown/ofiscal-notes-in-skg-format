@@ -1,0 +1,10 @@
+title: '"home purchase value" variable: created, later deleted'
+pid: 73594786-e6d1-4d7e-b0c8-8bb24e8aa700
+body: |2-
+  Deleted in commit 5967f198000676bd0107065bb332a4dc9aa9192b
+  It was never used.
+  It was being computed from the COICOP code for a home purchase,
+    but that code never appears in the database.
+    Evidence:
+      >>> (purchases["coicop"] == "12610104").mean()
+      0.0

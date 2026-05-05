@@ -1,0 +1,5 @@
+title: Determine which columns to use.
+pid: f2ffcc45-b668-4592-be26-464f19aa80d1
+body: |2-
+  Is the CHIP code an amalgamation of dept and muni codes?
+  If so, will probably have to read it as a string, then split the string.

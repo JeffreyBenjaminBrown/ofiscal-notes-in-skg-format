@@ -1,0 +1,4 @@
+title: TODO dtype argument for pd.read_csv should be stored for each file
+pid: 7349c29d-400b-477a-85fe-a3065ddcbc53
+body: |2-
+  rather than coded anew every time it is read

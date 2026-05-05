@@ -1,0 +1,4 @@
+title: test tabulate_stats_by_group()
+pid: 57d672f7-097f-4639-8440-385d6de89870
+body: |2-
+  It's used in python.report.var_summaries_by_group

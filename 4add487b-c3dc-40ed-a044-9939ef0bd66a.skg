@@ -1,0 +1,5 @@
+title: purpose
+pid: 4add487b-c3dc-40ed-a044-9939ef0bd66a
+body: |2-
+  so that it can [[id:a0b67b1d-225a-4174-ba68-9c4d2727b927][build multiple users]]
+  without a lot of redundant code.

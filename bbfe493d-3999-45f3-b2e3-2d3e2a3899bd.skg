@@ -1,0 +1,4 @@
+title: 'PITFALL: Keep the S3 bucket with my data'
+pid: bbfe493d-3999-45f3-b2e3-2d3e2a3899bd
+body: |2-
+  Transferring from it to an EC2 instance (in the same region) is extremely fast. Transferring from here takes hours.

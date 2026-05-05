@@ -1,0 +1,4 @@
+title: the apparent solution
+pid: 310c2b96-7b77-460b-8730-772d0ad88e59
+body: |2-
+  Rebuilding the Docker container seems to have solved it. Maybe because I used `conda install` rather than `pip install` for everything available as a conda package. Maybe just because things were old.

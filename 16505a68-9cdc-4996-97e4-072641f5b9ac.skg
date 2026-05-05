@@ -1,0 +1,6 @@
+title: 'TODO classes.py: Things like this should be defined within each enum type.'
+pid: 16505a68-9cdc-4996-97e4-072641f5b9ac
+body: |2-
+  re_nonNumeric = re.compile( "(.+\-|.*[^0-9\s\.,\-])" )
+  re_white      = re.compile( ".*[^\s].*\s.*[^\s]" )
+  ...

@@ -1,0 +1,20 @@
+title: TODO understanding the code
+pid: 0f47d081-81e2-4e9b-932c-00950a0de3fe
+body: |2-
+  tree | grep -v -e "\.pyc\|__.*__\|TAG"
+
+  ├── clean_one_file
+  │   ├── defs.py        # understood
+  │   └── test.py
+  ├── collect.py         # understood
+  ├── exceptions
+  │   ├── discoveries.py # understood
+  │   ├── explore.py
+  ├── find_files
+  │   ├── defs.py        # HARD
+  │   └── test.py
+  ├── main.py            # understood
+  ├── paths.py
+  ├── reconnaissance.py
+  ├── temp.py
+  └── types.py           # understood

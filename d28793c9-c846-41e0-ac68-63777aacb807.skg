@@ -1,0 +1,5 @@
+title: 'DONE solve Django bug: filesystem not always written to'
+pid: d28793c9-c846-41e0-ac68-63777aacb807
+contains:
+- 4143b22a-c3d9-4d9f-9da1-1f99e2b94837
+- 893df4e3-ed40-435a-8621-4116fcc803f4

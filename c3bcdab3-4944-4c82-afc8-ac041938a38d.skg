@@ -1,0 +1,4 @@
+title: the solution
+pid: c3bcdab3-4944-4c82-afc8-ac041938a38d
+body: |2-
+  Delete the unused "import pytest" from python.build.classes

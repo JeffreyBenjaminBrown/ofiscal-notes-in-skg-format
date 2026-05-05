@@ -1,0 +1,6 @@
+title: test evidence should mirror the file tree
+pid: 419b19bd-04c7-4098-a58d-603e867dd10a
+body: |2-
+  Currently it is flat.
+  This would only require rewriting the calls to oio.test_write()
+  and the locations of the evidence in the makefile.

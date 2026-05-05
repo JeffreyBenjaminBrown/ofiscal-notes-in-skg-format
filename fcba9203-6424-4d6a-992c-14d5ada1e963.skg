@@ -1,0 +1,14 @@
+title: TODO test that aggregation loses nothing in purchase_sums_test.py
+pid: fcba9203-6424-4d6a-992c-14d5ada1e963
+body: |2-
+  Compare the sum of a column in the original with same in the aggregated.** TODO add this test for income rank in people data
+  def test_income_ranks( ppl : pd.DataFrame ) -> ():
+    prefixes = ["income, rank ", "income, labor, rank "]
+    for p in prefixes:
+      for n in range(1,6):
+        c = p + str(n)
+        m = ppl[c].mean()
+        print( c, ": ", m )
+        assert ppl[c] . mean() > 0.2
+        assert ( (m > (0 if n > 1 else 0.2)) &
+                 (m < 1/n) )

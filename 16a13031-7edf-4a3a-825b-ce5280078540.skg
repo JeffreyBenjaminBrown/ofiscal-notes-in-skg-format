@@ -1,0 +1,4 @@
+title: extract taxes from purchases
+pid: 16a13031-7edf-4a3a-825b-ce5280078540
+body: |2-
+  Strangely, the purchase data includes some taxes. We have to track those as taxes, not purchases. The four categories used are predial, vehiculo, renta (de capital, creo), and "otros".

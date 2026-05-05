@@ -1,0 +1,5 @@
+title: 'DONE BUG: circular import with pandas'
+pid: 1e8bf871-67bd-45bd-a05a-4204f11860b4
+contains:
+- 310c2b96-7b77-460b-8730-772d0ad88e59
+- ae1c8d9e-7864-480c-b148-b4528cb29ee5

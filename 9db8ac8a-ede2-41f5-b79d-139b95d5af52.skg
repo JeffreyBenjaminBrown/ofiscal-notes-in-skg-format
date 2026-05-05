@@ -1,0 +1,7 @@
+title: 'TODO non-labor income: no private becas, no govt non-beca edu funds?'
+pid: 9db8ac8a-ede2-41f5-b79d-139b95d5af52
+body: |2-
+  ppl["income, non-labor (tax def)"] = (
+      ppl["income, sale not real estate"]
+    + ppl["income, month : private : beca, cash"]
+    + ppl["income, month : private : beca, in-kind"] )

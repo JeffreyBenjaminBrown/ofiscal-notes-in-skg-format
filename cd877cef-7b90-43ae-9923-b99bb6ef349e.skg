@@ -1,0 +1,12 @@
+title: verify column choices
+pid: cd877cef-7b90-43ae-9923-b99bb6ef349e
+body: |2-
+  Maybe also "*ambito*" (case-insensitive) and
+  "34_Conceptos_Cuipo_Agregacion".
+
+  Other options for 27_TOTAL_RECAUDO include
+  23_RECAUDO_VIGENCIA_ACTUAL_SIN_SITUACION_DE_FONDOS   float64
+  24_RECAUDO_VIGENCIA_ACTUAL_CON_SITUACION_DE_FONDOS   float64
+  25_RECAUDO_VIGENCIA_ANTERIOR_SIN_SITUACION_DE_FONDOS float64
+  26_RECAUDO_VIGENCIA_ANTERIOR_CON_SITUACION_DE_FONDOS float64
+  28_VALOR_DESTINACION_ESPECIFICA                      float64

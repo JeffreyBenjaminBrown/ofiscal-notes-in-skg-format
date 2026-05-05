@@ -1,0 +1,44 @@
+title: the error that I was getting from run-makefile.py
+pid: 5d44254a-70f0-4057-b77d-8e003e6cfc8b
+body: |2-
+  [jeff@jbb-dell:~/of/tax.co/online/users/w/4/logs]$ cat make.stderr.txt
+  Traceback (most recent call last):
+    File "/opt/conda/lib/python3.8/platform.py", line 613, in _syscmd_uname
+      output = subprocess.check_output(('uname', option),
+  AttributeError: module 'subprocess' has no attribute 'check_output'
+
+  During handling of the above exception, another exception occurred:
+
+  Traceback (most recent call last):
+    File "python/common/misc_test.py", line 5, in <module>
+      import python.common.common as cl    # throws error alone
+    File "/mnt/tax_co/python/common/common.py", line 11, in <module>
+      import python.build.classes as cla
+    File "/mnt/tax_co/python/build/classes.py", line 12, in <module>
+      import pytest
+    File "/opt/conda/lib/python3.8/site-packages/pytest/__init__.py", line 3, in <module>
+      from . import collect
+    File "/opt/conda/lib/python3.8/site-packages/pytest/collect.py", line 8, in <module>
+      from _pytest.deprecated import PYTEST_COLLECT_MODULE
+    File "/opt/conda/lib/python3.8/site-packages/_pytest/deprecated.py", line 13, in <module>
+      from _pytest.warning_types import PytestDeprecationWarning
+    File "/opt/conda/lib/python3.8/site-packages/_pytest/warning_types.py", line 6, in <module>
+      import attr
+    File "/opt/conda/lib/python3.8/site-packages/attr/__init__.py", line 7, in <module>
+      from . import converters, exceptions, filters, setters, validators
+    File "/opt/conda/lib/python3.8/site-packages/attr/converters.py", line 7, in <module>
+      from ._make import NOTHING, Factory, pipe
+    File "/opt/conda/lib/python3.8/site-packages/attr/_make.py", line 7, in <module>
+      import uuid
+    File "/opt/conda/lib/python3.8/uuid.py", line 60, in <module>
+      _platform_system = platform.system()
+    File "/opt/conda/lib/python3.8/platform.py", line 891, in system
+      return uname().system
+    File "/opt/conda/lib/python3.8/platform.py", line 857, in uname
+      processor = _syscmd_uname('-p', '')
+    File "/opt/conda/lib/python3.8/platform.py", line 616, in _syscmd_uname
+      except (OSError, subprocess.CalledProcessError):
+  AttributeError: module 'subprocess' has no attribute 'CalledProcessError'
+  make: *** [make/Makefile.tests:94: users/ub44c3f2c29071c30d701b958ac0d2837/test/recip-10/common_misc.txt] Error 1
+
+  [jeff@jbb-dell:~/of/tax.co/online/users/w/4/logs]$

@@ -1,0 +1,7 @@
+title: TODO understand, document absurdly strange (solved) bug
+pid: 77fff088-028e-4310-b6c5-5d6b4ed21318
+body: |2-
+  Solved at commit 19a996a50a457f37da040b63f3d4a01b3e0a15b2
+contains:
+- c3bcdab3-4944-4c82-afc8-ac041938a38d
+- 5d44254a-70f0-4057-b77d-8e003e6cfc8b

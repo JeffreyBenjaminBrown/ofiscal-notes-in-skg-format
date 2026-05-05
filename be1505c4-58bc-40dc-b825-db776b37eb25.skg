@@ -1,0 +1,5 @@
+title: my nix javeriana repo looks bad
+pid: be1505c4-58bc-40dc-b825-db776b37eb25
+body: |2-
+  The repo has a different nixos-version.
+  Probably I updated it for the new computer.

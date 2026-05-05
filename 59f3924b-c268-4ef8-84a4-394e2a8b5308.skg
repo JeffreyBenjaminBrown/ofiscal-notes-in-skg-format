@@ -1,0 +1,5 @@
+title: TODO tax.co should use income floors, not ceilings
+pid: 59f3924b-c268-4ef8-84a4-394e2a8b5308
+body: |2-
+  for its marginal income tax tables.
+  That way I could delete a bunch of cruft that converts ceilings to floors for display in the UI, and floors to ceilings for getting the UI data back into tax.co.

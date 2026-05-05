@@ -1,0 +1,4 @@
+title: Only two files condition seriously
+pid: ecc7dad0-b4c6-4a6e-aa7e-7d111f3280dd
+body: |2-
+  Only two files do serious conditioning on the vat_strategy: vat_rates.py and purchases_2_vat.py. (Other files change the names of their inputs and outputs based on the vat_strategy, but their logic is unchanged.)

@@ -1,0 +1,4 @@
+title: validateTable should be called in tableToMoneyBrackets
+pid: c6ac4d70-fdf8-4442-aa78-1b92f0f52f41
+body: |2-
+  not in csvToPython

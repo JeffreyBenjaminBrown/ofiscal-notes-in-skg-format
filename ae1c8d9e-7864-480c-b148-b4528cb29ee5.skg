@@ -1,0 +1,4 @@
+title: the problem
+pid: ae1c8d9e-7864-480c-b148-b4528cb29ee5
+body: |2-
+  Somoene online suggested that pandas might be corrupted, and to try reinstalling. I ran `conda update -y pandas` as root (otherwise it fails). The problem didn't stop.

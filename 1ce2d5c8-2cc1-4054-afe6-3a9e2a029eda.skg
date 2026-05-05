@@ -1,0 +1,5 @@
+title: P8610S2 and P8610S1
+pid: 1ce2d5c8-2cc1-4054-afe6-3a9e2a029eda
+body: |2-
+  The definition of "beca_sources_govt" has been changed to reflect this.
+    "Son ingreso no constitutivo de renta si es otorgado por el Estado (P6207M2 = si; P6207M3 = si; P6207M4 = si; P6207M5 = si. Otherwise, ingreso no laboral, tarifa 2, sumado con los otros."

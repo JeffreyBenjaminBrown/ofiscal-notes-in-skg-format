@@ -1,0 +1,6 @@
+title: for Ubuntu
+pid: 63d95079-d3d1-4327-8182-0a893b55f89c
+body: |2-
+  sudo apt update # IMPORTANT. Without this nothing happens.
+  sudo apt upgrade -y
+  sudo apt install -y zip unzip jq git emacs docker.io

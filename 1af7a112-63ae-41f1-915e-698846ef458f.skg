@@ -1,0 +1,6 @@
+title: f is disagg'd into "cuentas"
+pid: 1af7a112-63ae-41f1-915e-698846ef458f
+body: |2-
+  personal {salarios, ...}, transferencias,
+  adq de bienes y servicios,
+  pago de multas

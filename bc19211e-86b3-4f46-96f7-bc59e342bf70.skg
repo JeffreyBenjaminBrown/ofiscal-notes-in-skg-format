@@ -1,0 +1,4 @@
+title: add a new column, "tax.co purchase code", and a new tax rate key for it
+pid: bc19211e-86b3-4f46-96f7-bc59e342bf70
+body: |2-
+  Some things (e.g. house purchases) are neither in the COICOP nor the capitulo c system.

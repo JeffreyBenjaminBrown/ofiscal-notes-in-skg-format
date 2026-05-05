@@ -1,0 +1,4 @@
+title: TODO document units of observation and quantiles somewhere
+pid: d62e59d6-9a79-4d2c-93de-4476ffae1af2
+body: |2-
+  Recall that the meaning of the quantiles in nonzero-laborers is different. In each data set the quantiles are over the unit in the name of that data set -- so earners quantiles are computed over all earners (including the unemployed), not households; household quantiles are computed over households; and nonzero_laborers quantiles are computed over earners with nonzero labor income. But additionally, whereas the other two data sets have their quantiles computed with respect to total income, the nonzero-laborers quantiles are computed only with regard to labor income.

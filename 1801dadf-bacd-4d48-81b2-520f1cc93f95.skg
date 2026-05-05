@@ -1,0 +1,8 @@
+title: pension contributions
+pid: 1801dadf-bacd-4d48-81b2-520f1cc93f95
+body: |2-
+  V1474 = P6920 in Area_ocupados
+  V1700 = P6920 in Cabecera_ocupados
+  V2309 = P6920 in Resto_ocupados
+contains:
+- b67de8ea-0963-4000-9907-b69ec163ab96

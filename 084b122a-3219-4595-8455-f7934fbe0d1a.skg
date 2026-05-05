@@ -1,0 +1,5 @@
+title: misc.unique is good for column names
+pid: 084b122a-3219-4595-8455-f7934fbe0d1a
+body: |2-
+  def unique( coll: List ) -> bool:
+    return len( coll ) == len( set( coll ) )

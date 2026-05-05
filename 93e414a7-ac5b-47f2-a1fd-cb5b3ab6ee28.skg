@@ -1,0 +1,6 @@
+title: the code expects vat_by_c*, not vat-by-c*
+pid: 93e414a7-ac5b-47f2-a1fd-cb5b3ab6ee28
+body: |2-
+  That is, underscores, not dashes.
+  So change all the filenames accordingly.
+  Also change the READMEs (plural) in data/vat

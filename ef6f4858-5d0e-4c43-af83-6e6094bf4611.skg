@@ -1,0 +1,5 @@
+title: in commands.sh, rather than hardcode paths, define commented variables
+pid: ef6f4858-5d0e-4c43-af83-6e6094bf4611
+body: |2-
+  so the user knows to redefine them
+  maybe better, read paths.json

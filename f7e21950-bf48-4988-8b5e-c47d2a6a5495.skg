@@ -1,0 +1,5 @@
+title: 'P6760 = income, month : labor : independent, months'
+pid: f7e21950-bf48-4988-8b5e-c47d2a6a5495
+body: |2-
+  divide P6750 by this to get monthly
+  the definition of P6750 contradicts the definition of this a little bit, but David says the treatment in place is correct.

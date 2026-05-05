@@ -1,0 +1,5 @@
+title: 'skipped: build/people/main.py / income variable creation'
+pid: 8c9bc519-bae9-4796-8366-6a3958427e31
+body: |2-
+  resume at:
+      # compute income totals, drop components

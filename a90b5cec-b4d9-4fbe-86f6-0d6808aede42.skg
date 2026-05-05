@@ -1,0 +1,7 @@
+title: a partial sum
+pid: a90b5cec-b4d9-4fbe-86f6-0d6808aede42
+body: |2-
+  ppl["tax, ss, total employee contribs"] = (
+    ppl["tax, ss, pension"] +
+    ppl["tax, ss, salud"] +
+    ppl["tax, ss, solidaridad"] )

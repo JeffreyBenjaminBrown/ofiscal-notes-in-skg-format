@@ -1,0 +1,4 @@
+title: every code folder needs a __init__.py file
+pid: b8e47983-98c3-4908-a0cc-99e3ed116f4d
+body: |2-
+  as of some recent version of Python

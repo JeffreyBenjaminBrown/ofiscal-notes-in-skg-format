@@ -1,0 +1,4 @@
+title: report/pics send some output to output/vat/tables rather than /pics
+pid: 9ceba0ee-7151-42c0-81e1-f2d3472e9820
+body: |2-
+  The Makefile pseudo targets, rather than *_pics, should be called *_reports, and should include those tables.

@@ -1,0 +1,4 @@
+title: pdf.savefig() overrides background color in figures
+pid: ba121a1f-d225-43c5-bb01-a63ca226e45f
+body: |2-
+  https://stackoverflow.com/questions/56606122/matplotlib-use-the-same-custom-font-in-every-kind-of-text-axes-title-text

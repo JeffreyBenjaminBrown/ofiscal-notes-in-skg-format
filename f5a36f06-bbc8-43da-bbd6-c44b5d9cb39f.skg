@@ -1,0 +1,12 @@
+title: compute osme aggregate stats
+pid: f5a36f06-bbc8-43da-bbd6-c44b5d9cb39f
+body: |2-
+  min age
+    has >1 child
+  max age
+    has >1 elderly
+  has female
+  has male
+  has literate
+  has student
+  income decile and percentile (99 = richest)

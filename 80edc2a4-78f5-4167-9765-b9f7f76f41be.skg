@@ -1,0 +1,6 @@
+title: TODO ? split email address from other details
+pid: 80edc2a4-78f5-4167-9765-b9f7f76f41be
+body: |2-
+  (When I first tried fixing this problem something went wrong I didn't understand.)
+  It's mandatory and obvious, whereas the rest are optional and esoteric.
+    Therefore they deserve a preamble, but it doesn't.

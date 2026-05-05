@@ -1,0 +1,4 @@
+title: "for AL 2:\tsudo amazon-linux-extras install docker emacs git"
+pid: 5a1db6d4-7711-4100-aa91-ec22f948166e
+body: |2-
+  If that doesn't work, `yum install` might.

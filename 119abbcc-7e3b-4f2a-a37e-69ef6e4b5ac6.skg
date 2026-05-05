@@ -1,0 +1,6 @@
+title: how I verified that the predial tax is not double-counted across a household's members
+pid: 119abbcc-7e3b-4f2a-a37e-69ef6e4b5ac6
+body: |2-
+  in purchase_sums.csv, create a 0-or-1 "predial>0" column
+  add that tot he variables in households.csv summed across people
+  verify that the maximum "predial>0" variable at the household level is 1

@@ -1,0 +1,6 @@
+title: move repl.json from config/ to users/repl/
+pid: 5f4f1272-5c71-4009-8347-bd70c0503558
+body: |2-
+  And add a README explaining that two of the folders,
+  repl and example, aren't real users.
+  Note that repl.json is referred to in make/ and python/.

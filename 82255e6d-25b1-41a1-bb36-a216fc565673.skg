@@ -1,0 +1,5 @@
+title: and not
+pid: 82255e6d-25b1-41a1-bb36-a216fc565673
+body: |2-
+  "(rank, labor income) = *" # for * in [1,5]
+  'transactions',

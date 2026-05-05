@@ -1,0 +1,4 @@
+title: don't generate purchases_1 with file-origin column
+pid: bc634904-3952-4b33-bdd4-8a184206e92d
+body: |2-
+  at the end of the file, comment out one line (and manage myriad downstream effects)

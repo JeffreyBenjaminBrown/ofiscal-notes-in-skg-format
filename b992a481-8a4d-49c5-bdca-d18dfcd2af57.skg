@@ -1,0 +1,5 @@
+title: associate taxes (VAT, otros) with purchases
+pid: b992a481-8a4d-49c5-bdca-d18dfcd2af57
+body: |2-
+  This relies mostly on the work mapping the VAT that David and Juan M did.
+  We also include a few minor taxes like the the sales tax for restaurant food (?) and the tax on big motorcycles.

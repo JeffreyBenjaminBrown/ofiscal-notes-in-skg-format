@@ -1,0 +1,12 @@
+title: DONE the correction
+pid: b025578d-d399-46a3-9ec4-4ed46475aec0
+body: |2-
+  min (
+        ( ppl["income, labor"]
+          - ppl["tax, ss, total employee contribs"]
+          - "those exemptions" ),
+     0 )
+  + rental + interest + non-labor
+
+  To that whole thing, apply the marginal tax scchedule.
+  (The min(_,0) is the part not yet implemented.)

@@ -1,0 +1,4 @@
+title: TODO test the names of the raw income variables
+pid: 3e976a03-cc6c-435b-9cba-139078ed5b1d
+body: |2-
+  each should begin either "income, month" or "income, year"

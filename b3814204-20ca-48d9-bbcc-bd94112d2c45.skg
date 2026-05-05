@@ -1,0 +1,10 @@
+title: have read through
+pid: b3814204-20ca-48d9-bbcc-bd94112d2c45
+body: |2-
+  buildings.py
+  classes.py
+  common.py
+  households.py
+  people*.py
+  purchases*.py
+  vat_rates.py

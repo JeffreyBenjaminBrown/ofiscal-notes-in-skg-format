@@ -1,0 +1,14 @@
+title: model code & specific variable names
+pid: e19656b9-4a4c-4411-8c63-66bbe49b1e60
+body: |2-
+       households["income-decile"] = (
+  util.noisyQuantile( 10, 0, 1, households["income"] ) )
+       households["income-percentile"] = (
+  util.noisyQuantile( 100, 0, 1, households["income"] ) )
+       households["one"] = 1 # used in report/households.py to create the trivial partition.
+       merge["vat / purchase value" ] = (
+  merge["vat paid"]   / merge["value, purchase" ] )
+       merge["vat/income"] = (
+  merge["vat paid"]   / merge["income"] )
+       merge["purchase value / income"   ] = (
+  merge["value, purchase"] / merge["income"] )

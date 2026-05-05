@@ -1,0 +1,5 @@
+title: the idea
+pid: 83aff23d-5985-4054-abed-b94b5cb0e4b4
+body: |2-
+  This prevents needing to canonicalize everywhere.
+  There might not yet be a write routine; if so make it.

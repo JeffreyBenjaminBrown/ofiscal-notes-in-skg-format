@@ -1,0 +1,6 @@
+title: uncompress
+pid: 368315e0-a898-4cb2-98d7-ef8fa19f7314
+body: |2-
+  unzip tax_co_web.zip
+  unzip tax_co_online.zip
+  # for the docker images, see "configure Docker" below

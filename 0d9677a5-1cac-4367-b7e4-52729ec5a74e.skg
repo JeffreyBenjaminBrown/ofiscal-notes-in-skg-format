@@ -1,0 +1,7 @@
+title: a naive income share calculation divides by 0 sometimes
+pid: 0d9677a5-1cac-4367-b7e4-52729ec5a74e
+body: |2-
+  ph["income share"] = ph["income"] / ph["household income"]
+
+  for c in ho_columns:
+    ph[c] = ph[c] * ph["income share"]

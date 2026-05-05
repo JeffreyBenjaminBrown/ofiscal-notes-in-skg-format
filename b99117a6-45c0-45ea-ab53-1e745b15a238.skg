@@ -1,0 +1,4 @@
+title: TODO pension deduction
+pid: b99117a6-45c0-45ea-ab53-1e745b15a238
+body: |2-
+  If response to P6110 is 2, then deduct value in P6120 from pension income before computing taxes. That's a health insurance contribution.

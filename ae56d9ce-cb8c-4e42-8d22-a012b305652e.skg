@@ -1,0 +1,9 @@
+title: I should delete the mypy and python caches
+pid: ae56d9ce-cb8c-4e42-8d22-a012b305652e
+body: |2-
+  because they refer to the old name,
+  and sometimes they get confused.
+
+  find . -name "*mypy*"         # finds only one, so delete it by hand
+  find . -name "*pycache**"     # finds a lot, so delete it automatically
+  find . -name "*pycache*" -print0 | xargs -0 rm -rf

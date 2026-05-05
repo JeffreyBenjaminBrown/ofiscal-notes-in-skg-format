@@ -1,0 +1,4 @@
+title: 'why: speed'
+pid: 2580e284-be29-4a91-8c98-2fcebc8b25b7
+body: |2-
+  Uploading such a .tar file from my home machine to the server will be much faster than downloading it from DockerHub onto the server.

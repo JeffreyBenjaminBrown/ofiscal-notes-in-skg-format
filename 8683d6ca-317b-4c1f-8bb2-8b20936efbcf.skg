@@ -1,0 +1,5 @@
+title: handle the case of an invalid spec form
+pid: 8683d6ca-317b-4c1f-8bb2-8b20936efbcf
+body: |2-
+  in ingest_full_spec
+  The trick was to populate  the optional "choices" fields of the Model elements.

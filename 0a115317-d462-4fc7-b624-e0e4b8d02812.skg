@@ -1,0 +1,14 @@
+title: TODO why does (e.g.) ss_functions_test.py install into a user folder?
+pid: 0a115317-d462-4fc7-b624-e0e4b8d02812
+body: |2-
+  in make/Makefile.tests, there's this passage:
+
+    users/$(user)/test/recip-1/build_ss_functions.txt:               \
+      .no_younger_than/python/build/ss/functions_test.py
+    	date
+    	$(python_from_here) python/build/ss/functions_test.py \
+              $(config_file)
+
+  Other tests are likely to have the same property --
+  specifically, those that install to a recip-1/ subfolder,
+  rather than recip-$(ss) ($(ss) being the subsample).

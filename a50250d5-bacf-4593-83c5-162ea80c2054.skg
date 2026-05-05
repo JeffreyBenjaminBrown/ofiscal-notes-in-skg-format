@@ -1,0 +1,9 @@
+title: TODO handle csv format outside of pandas
+pid: a50250d5-bacf-4593-83c5-162ea80c2054
+body: |2-
+  document everything below, then merge the branch into `tests`
+contains:
+- 82e0c95e-2881-45c4-8315-24166d7972aa
+- b32ad6b8-dd60-437c-95d6-80ca5b911912
+- 1670f82a-ef35-4274-b59e-a2d819276817
+- b33e8aa4-9f6a-4ba2-bd13-f4b992f3330a

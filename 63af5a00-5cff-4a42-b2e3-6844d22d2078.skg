@@ -1,0 +1,16 @@
+title: Makefile.goods-by-decile
+pid: 63af5a00-5cff-4a42-b2e3-6844d22d2078
+body: |2-
+  It duplicates relevant parts of the Makefile: everything that's both:
+    upstream of goods-by-decile
+    downstream of ???
+  It uses two arguments:
+    exemption_strategy = manual | auto
+    number_exempted :: Int
+  It duplicates the needed inputs from prop_2018_10_31_0.18
+    renaming them del_rosario_2018_11_20
+  Its outputs are all labeled del_rosario_2018_11_20
+  Any preexisting python programs, it calls using
+    subsample = _
+    vat_strategy = del_rosario_2018_11_20
+    vat_flat_rate=0.18

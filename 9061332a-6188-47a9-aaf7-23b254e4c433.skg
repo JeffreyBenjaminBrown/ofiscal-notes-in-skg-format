@@ -1,0 +1,4 @@
+title: some recipes don't need to depend on all three variables
+pid: 9061332a-6188-47a9-aaf7-23b254e4c433
+body: |2-
+  the three variables being subsample, strategy, year

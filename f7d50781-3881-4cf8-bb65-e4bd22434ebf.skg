@@ -1,0 +1,8 @@
+title: How we thought we had misunderstood
+pid: f7d50781-3881-4cf8-bb65-e4bd22434ebf
+body: |2-
+  From "renta liquida" we deduct min (
+    something between 25% and 40%, depending on what someone buys,
+    5040 UVTs )
+  Since we didn't know how much someone would deduct,
+  we assumed the average, 32.5%.

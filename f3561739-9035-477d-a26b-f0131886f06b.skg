@@ -1,0 +1,6 @@
+title: some import names clobber others
+pid: f3561739-9035-477d-a26b-f0131886f06b
+body: |2-
+  When using the syntax "import _ as x", Python will only bind one library to the name "x". When collisions occur, the latest binding wins.
+
+  When I split common.py into common.misc and common.cl_args, I imported both as "c". I only fixed the code where a collision occurred.

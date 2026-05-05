@@ -1,0 +1,4 @@
+title: do subprocess the same everywhere
+pid: 4be9129d-aa0b-4303-ae49-db953cc68d5f
+body: |2-
+  and make it a function (to define my_env, etc.)

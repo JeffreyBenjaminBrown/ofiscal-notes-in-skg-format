@@ -1,0 +1,5 @@
+title: 'Makefile: be sure all program output comes at the end'
+pid: a6d0d30b-9a1f-40fe-89a0-b7c20b8bd2cf
+body: |2-
+  And that (at least) the last thing it creates is a Makefile target.
+  Otherwise `make` might believe a target is up to date when the program responsible for it did not complete.

@@ -1,0 +1,4 @@
+title: '# Ig_gssu_gasto_alimentos_cap_c,  Ig_gssr_gasto_alimentos_cap_c'
+pid: a7c808eb-2e8d-48e9-a62a-3ae98366839b
+body: |2-
+  These tables contain food expenditures that were imputed for households that did not complete the booklets used to compile tables Ig_gsdu_gas_dia and Ig_gssr_gas_sem but reported to have made purchases in the reference period of the survey.  We can only recover prices for the former, using the questions ARTICULO (COICOP code), VALOR_MENSUAL_ALIMENTO, and CANTIDAD; for the latter only total monetary values are reported.

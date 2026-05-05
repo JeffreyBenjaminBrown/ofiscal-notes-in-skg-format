@@ -1,0 +1,5 @@
+title: use symlinks for files not uploaded.
+pid: a91b3d9a-79a1-4730-b441-5445ddc7c7c6
+body: |2-
+  It could be that the user's folder always has a file for every uploadable table, but that in the event that they don't upload it, that file is a symlink.
+  This simplifies the config file -- no need to indicate where the files are, becuase they're always there -- and doesn't have much effect + or - on the simplicity of the code that puts the files there.

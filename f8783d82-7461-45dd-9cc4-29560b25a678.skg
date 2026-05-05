@@ -1,0 +1,5 @@
+title: '? move the spec to a subfolder'
+pid: f8783d82-7461-45dd-9cc4-29560b25a678
+body: |2-
+  of the user folder called spec/
+  where "the spec" includes all uploaded tables too.

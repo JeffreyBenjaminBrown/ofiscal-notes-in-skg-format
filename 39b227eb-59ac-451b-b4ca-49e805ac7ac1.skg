@@ -1,0 +1,8 @@
+title: configure Docker not to need sudo
+pid: 39b227eb-59ac-451b-b4ca-49e805ac7ac1
+body: |2-
+  sudo dockerd &
+  sudo groupadd docker
+  sudo usermod -aG docker $JBB_AWS_USER
+    # probably "ubuntu" or "ec2-user"
+  << close ssh and ssh back in >>

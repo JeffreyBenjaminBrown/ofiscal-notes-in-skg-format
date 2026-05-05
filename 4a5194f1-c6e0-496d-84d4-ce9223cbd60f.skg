@@ -1,0 +1,4 @@
+title: change os.system calls to subprocess.run calls
+pid: 4a5194f1-c6e0-496d-84d4-ce9223cbd60f
+body: |2-
+  can model on tax.co/python/requests/main.py

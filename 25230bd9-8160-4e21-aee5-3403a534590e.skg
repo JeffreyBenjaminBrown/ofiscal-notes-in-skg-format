@@ -1,0 +1,5 @@
+title: ss.functions is only used in people_3_income_taxish
+pid: 25230bd9-8160-4e21-aee5-3403a534590e
+body: |2-
+  and only in one line:
+    ppl = ss.mk_ss_contribs(ppl)

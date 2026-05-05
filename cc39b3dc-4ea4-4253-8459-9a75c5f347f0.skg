@@ -1,0 +1,5 @@
+title: TODO the make recipe for goods-by-income-decile.py is confusing
+pid: cc39b3dc-4ea4-4253-8459-9a75c5f347f0
+body: |2-
+  It is only used by the del-rosario strategy, which has its own makefile.
+  But it is created in the primary Makefile.

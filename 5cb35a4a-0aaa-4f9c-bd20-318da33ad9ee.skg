@@ -1,0 +1,8 @@
+title: 'where-got: if missing, assume taxed'
+pid: 5cb35a4a-0aaa-4f9c-bd20-318da33ad9ee
+body: |2-
+  # Even when purhcase=1, in some files there are a substantial number
+  # of observations where where-got is missing. A way to see that:
+  util.dwmByGroup( "file-origin",
+                   data.purchases[ data.purchases["is-purchase"]==1 ]
+                   [["file-origin","where-got"]] )

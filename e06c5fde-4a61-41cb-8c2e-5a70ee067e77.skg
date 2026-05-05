@@ -1,0 +1,10 @@
+title: DONE Pathway to Scale
+pid: e06c5fde-4a61-41cb-8c2e-5a70ee067e77
+body: |2-
+  In brief: The system will perform at full scale, covering all of Colombia, as soon as it is built. The negligible cost of maintaining it can be absorbed by Javeriana University.
+
+  In a little more detail:
+
+  As soon as the software is written and running, it be monitoring all contracts in the public contract databases. Colombia's population is about 50 million people, and the system will (after the preliminary controlled experiment is complete) make the data on every region in Colombia available to everyone in the world. Of course not all 50 million people will be reading it, but the resulting improvements in visibility, accountability, and voter information will, we expect, benefit the entire country.
+
+  The project's major expenses are all up-front rather than in maintenance. Once the system is running, it will only require occasional maintenance from a single developer -- we estimate one person-month of labor per year, costing under $1000 -- plus the cost of the server time, which we believe will be less than $2500 USD per year. Javeriana University can easily absorb these maintenance costs.

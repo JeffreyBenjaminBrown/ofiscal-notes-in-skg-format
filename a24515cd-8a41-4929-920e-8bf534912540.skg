@@ -1,0 +1,5 @@
+title: 'in Jupyter: local modules must begin with a capital letter to be imported in Jupyter'
+pid: a24515cd-8a41-4929-920e-8bf534912540
+body: |2-
+  Keeping all code in a top-level folder that starts with a capital letter solves this problem.
+  Subfolders and files suffer no naming restriction.

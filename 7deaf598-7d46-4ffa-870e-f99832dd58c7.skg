@@ -1,0 +1,6 @@
+title: 'the python3 call: works'
+pid: 7deaf598-7d46-4ffa-870e-f99832dd58c7
+body: |2-
+  PYTHONPATH=/mnt/tax_co:$PYTHONPATH python3 python/requests/main.py config/config.json try-to-advance-queue
+misc:
+- Had_ID_Before_Import

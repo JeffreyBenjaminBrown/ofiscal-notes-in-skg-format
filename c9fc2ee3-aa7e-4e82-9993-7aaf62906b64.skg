@@ -1,0 +1,6 @@
+title: TODO ? quantiles are computed without weights.
+pid: c9fc2ee3-aa7e-4e82-9993-7aaf62906b64
+body: |2-
+  This might be the best way to do it:
+  https://stackoverflow.com/questions/21844024/weighted-percentile-using-numpy/63440143#63440143
+  Oliver believes Gabriel already did this.

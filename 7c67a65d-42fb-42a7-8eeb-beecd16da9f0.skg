@@ -1,0 +1,6 @@
+title: This should be a separate makefile target. "compare".
+pid: 7c67a65d-42fb-42a7-8eeb-beecd16da9f0
+body: |2-
+  That way I can avoid running it for the baseline user.
+  (It wouldn't be terrible if it did,
+  but it might be confusing for later coders.)

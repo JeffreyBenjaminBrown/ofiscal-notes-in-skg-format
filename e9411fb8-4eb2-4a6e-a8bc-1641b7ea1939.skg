@@ -1,0 +1,12 @@
+title: the new functions and tax names in python/build/ss/functions.py
+pid: e9411fb8-4eb2-4a6e-a8bc-1641b7ea1939
+body: |2-
+  [ ( "tax, ss, ARL",
+      mk_arl)
+  , ( "tax, ss, ARL, employer",
+      mk_arl_employer)
+  , ( "tax, ss, aux transporte, employer",
+      mk_aux_transporte_employer)
+  , ( "vacaciones, employer",
+      # PITFALL: not a tax -- that's why its name looks different.
+      mk_vacaciones_employer) ]

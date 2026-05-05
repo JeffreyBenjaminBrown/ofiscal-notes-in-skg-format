@@ -1,0 +1,5 @@
+title: how to run it
+pid: c46c7f16-3074-4b8a-98ef-ea7685f1cd8a
+body: |2-
+  docker-compose -f docker-compose-deploy.yml up --build
+  http://localhost:8080/run_make/ingest_full_spec

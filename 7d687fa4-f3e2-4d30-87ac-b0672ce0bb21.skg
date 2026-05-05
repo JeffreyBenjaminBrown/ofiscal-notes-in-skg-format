@@ -1,0 +1,11 @@
+title: TODO amend tax.co installation instructions
+pid: 7d687fa4-f3e2-4d30-87ac-b0672ce0bb21
+body: |2-
+  When updating git submodules, you'll need (if you haven't done it already) to configure git to use the git (ssh) protocol, as described here:
+
+      https://stackoverflow.com/a/42641637/916142
+
+    or change the submodule URL to the http protocol:
+
+      cd tax.co.web/system_specific/
+      git remote set-url origin https://github.com/ofiscal/tax.co.web-system.specific

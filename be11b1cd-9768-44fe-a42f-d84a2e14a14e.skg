@@ -1,0 +1,4 @@
+title: 'Find all appearances of the old name:'
+pid: be11b1cd-9768-44fe-a42f-d84a2e14a14e
+body: |2-
+  find . -type f -not \( -name "*.csv" -o -name "*.xlsx" -o -name "*.tgz" -o -name "*.zip" -o -name "*.ssv" -o -name "*.sav" -o -name "*.pyc" -o -name "*.pdf" -o -name "*.jpeg" -o -name "*.odt" -o -name "*.pack" -o -name "*.ods" -o -name "*.ipynb" -o -name "*.idx" -o -name "*.docx" -o -name "*.dta" \) -print0 | xargs -0 grep "people_4_post_households" --color

@@ -1,0 +1,8 @@
+title: 'problem: incomplete generalization from example to function.'
+pid: 9bd2071c-c30e-43a3-829a-e8d27e0bc50a
+body: |2-
+  Two heuristics that can catch this kind of bug:
+    (1) Make sure every variable in the type signature is used.
+    (2) When designing test data,
+        use column names that are similar but *not* identical
+        to those in the real data.

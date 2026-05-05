@@ -1,0 +1,5 @@
+title: To wait on a file
+pid: fb9e9377-ec53-49d8-96fc-c3fe9ccdfd97
+body: |2-
+  See if the file is locked.
+  If so, wait a given (as an argument) number of seconds.

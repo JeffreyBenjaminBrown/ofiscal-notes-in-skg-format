@@ -1,0 +1,4 @@
+title: cannot convert to int when some values are NaN
+pid: f64a82f3-e862-4b66-921e-85141f773c54
+body: |2-
+  Hence muni code is float.

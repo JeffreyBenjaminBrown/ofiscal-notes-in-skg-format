@@ -1,0 +1,7 @@
+title: purchases_2_vat.py
+pid: 194a4f32-a357-4d82-804c-dc054e2db514
+body: |2-
+  It inputs these 5 files:
+    purchases_1_5_no_origin
+    vat_(cap_c|coicop)_brief
+    vat_coicop_(2|3)_digit -- version imported depends whether strategy == prop*

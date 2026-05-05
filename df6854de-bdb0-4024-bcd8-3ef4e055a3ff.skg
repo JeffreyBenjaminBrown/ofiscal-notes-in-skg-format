@@ -1,0 +1,12 @@
+title: household data
+pid: df6854de-bdb0-4024-bcd8-3ef4e055a3ff
+body: |2-
+  The variables defining the unit of observation in the household data are, at most, these:
+
+  V1847 VIVIENDA
+  V1848 DIRECTORIO
+  V1849 SECUENCIA_ENCUESTA
+  V1850 SECUENCIA_P
+  V1851 ORDEN
+
+  I don't know what any of those actually means. It *sounds* like VIVIENDA is the building, which *suggests* that DIRECTORIO is the household (multiple households can share a building). I think SECUENCIA_ENCUESTA might be irrelevant. I don't know what the other two are. The documentation does not define them.

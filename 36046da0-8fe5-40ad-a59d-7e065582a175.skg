@@ -1,0 +1,4 @@
+title: in upload_multiple.html, read list of table names
+pid: 36046da0-8fe5-40ad-a59d-7e065582a175
+body: |2-
+  from the calling Django view.

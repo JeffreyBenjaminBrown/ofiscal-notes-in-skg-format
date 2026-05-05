@@ -1,0 +1,4 @@
+title: 'TODO 7130101 : VAT rate depends on price'
+pid: 6b521c20-2248-424a-b4af-3abafb8344a1
+body: |2-
+  Depending on value an nature. If value is below 50 UVT (aprox $1593000 COP) the VAT rate is 5%, otherwise 19%

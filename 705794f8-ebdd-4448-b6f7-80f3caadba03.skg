@@ -1,0 +1,6 @@
+title: our answer
+pid: 705794f8-ebdd-4448-b6f7-80f3caadba03
+body: |2-
+  Since contracts include location data, we can run controlled experiments to determine the effectiveness of the program, by randomly dividing regions into treatment and control groups, and publishing our system's results for the treatment group while withholding it for the control group. After running the intervention for a period long enough to expect some impact -- at least half a year -- the change in contract problematicity in the control and treatment groups will permit statistical testing to determine whether the intervention makes a meaningful difference.
+
+  We will use supervised and unsupervised learning to develop our measure of problematicity in government contracts. While this measure will not be the same as corruption or mismanagement, they will be correlated.

@@ -1,0 +1,6 @@
+title: dividends are covered exactly once
+pid: 8cf84f82-efd9-4379-b826-fa53d2187f89
+body: |2-
+  It's only in income_short_name_dict_cash,
+  and that is part of cash income,
+  which is part of income.

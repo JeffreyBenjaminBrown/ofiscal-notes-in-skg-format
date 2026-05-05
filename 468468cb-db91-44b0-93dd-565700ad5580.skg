@@ -1,0 +1,10 @@
+title: in the 10% sample less than 0.3% of the purchases have a NaN vat rate
+pid: 468468cb-db91-44b0-93dd-565700ad5580
+body: |2-
+  x = purchases["vat-rate"]
+  >>> len(x)
+  7458243
+  >>> len( x[ x.isnull() ] )
+  28986
+  >>> 28986 / 7458243
+  0.0038864381329490067

@@ -1,0 +1,5 @@
+title: 'PITFALL: format problem'
+pid: 68d559e7-afff-4abf-afcd-2e44089c114e
+body: |2-
+  The text-formatted table in it is pretty wide.
+  Copying the text into most applications will render it unreadable.

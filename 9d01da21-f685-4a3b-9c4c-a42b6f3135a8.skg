@@ -1,0 +1,7 @@
+title: DONE choose optimal wait
+pid: 9d01da21-f685-4a3b-9c4c-a42b6f3135a8
+body: |2-
+  Promise to respond within 2 hours,
+  and to hold the results for at least 1 hour after making them.
+  If space for 10 users, then actually the response will always come in at most 100 minutes, and the data will stay for at least 100 minutes.
+  If no new users bump the space, they might stay longer.

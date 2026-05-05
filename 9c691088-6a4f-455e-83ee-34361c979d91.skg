@@ -1,0 +1,4 @@
+title: PITFALL why to do that
+pid: 9c691088-6a4f-455e-83ee-34361c979d91
+body: |2-
+  So I can stop the EC2 instance and not worry if it's deleted automatically, which it will be if not hibernated.

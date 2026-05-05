@@ -1,0 +1,10 @@
+title: question detail
+pid: b5df284e-2db6-4ff0-84e5-973e257aa517
+body: |2-
+  The formulas look like this:
+  renta gravable laboral = renta liquida laboral
+  - f beneficios
+  where f x = min( x
+                 , 0% renta gravable laboral
+                 , 5040 uvt)
+  Where does a dependent enter into that formula? What else might be considered a "beneficio"?

@@ -1,0 +1,8 @@
+title: 'overview/pics.py: Makefile targets are incomplete, maybe inaccurate too'
+pid: 5440fb7e-95bd-4fd0-bec2-f8cb2901c1b1
+body: |2-
+  It's important that the last thing a file makes is one of the dependencies in the Makefile; otherwise, the program could fail and `make` would still think its targets are up to date.
+
+  Some output has spaces in the name; that will need to change before that output can be listed as a target.
+
+  At least one filename is duplicated. That will matter once we are again using those pictures.

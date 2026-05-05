@@ -1,0 +1,7 @@
+title: to login, use ~/of/ssh-of.sh
+pid: 171d9a6a-8fc5-4f22-97f3-5ea33366596e
+body: |2-
+  If it's not working, update the IP address,
+  which gets reset after each restart of the EC2 instance.
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,13 @@
+title: the integration tests
+pid: 650f233f-1b19-4a8f-bf32-01a30f1bb944
+body: |2-
+  These test the entire data pipeline.
+  They require making some mock input data that looks like the ENPH.
+  There is no separate "build" code for these data;
+  they use the same code that builds from the real ENPH.
+  However, there will be a test program for every output data product,
+  which tests that the product resulting from the mock ENPH
+  exhibit the statistics (means, min, max) they should have.
+
+  We can apply similar integration tests to a subsample of the real ENPH.
+  Those integration tests should test ranges, if not statistics.

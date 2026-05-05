@@ -1,0 +1,6 @@
+title: TODO where are those \r symbols coming from?
+pid: 818b5511-b48c-4f4e-a1b7-6e6db9e58760
+body: |2-
+  See long comment in
+    ~/of/tax.co/online/haskell/Main.hs
+  following `filter _ $` expression.

@@ -1,0 +1,5 @@
+title: constant within member, purchase. (I tested, it really is.)
+pid: 42e38417-da5e-4c47-857d-6b893ede5fe1
+body: |2-
+  data.purchases[["household","household-member","weight"]].sort_values(
+    ["household","household-member","weight"] ) [["household","weight"]]

@@ -1,0 +1,7 @@
+title: DONE correct low-ceiling error in most.csv
+pid: 4a03dfd7-c8f6-4f14-accd-65686ee7e4f3
+body: |2-
+  The top income tax rate for most income ended at a finite income level; it shouldn't. Now it doesn't.
+  Daniel helped me find the error.
+  Comparing to the old code (still the latest commit in the main branch),
+  was able to see what the rates should have been.

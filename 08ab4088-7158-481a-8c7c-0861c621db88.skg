@@ -1,0 +1,6 @@
+title: 'three major vars: capital = (capital - dividends) + dividends'
+pid: 08ab4088-7158-481a-8c7c-0861c621db88
+body: |2-
+  income, capital =                # first called "total income, monthly : capital"
+      income, capital w/o dividends +
+      income, capital, dividends   # first called "income, year : investment : dividends"

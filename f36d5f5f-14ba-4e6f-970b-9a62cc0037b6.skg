@@ -1,0 +1,16 @@
+title: the the household variables to include
+pid: f36d5f5f-14ba-4e6f-970b-9a62cc0037b6
+body: |2-
+       "income" # total income
+  # so that VAT can be allocated among household members
+  # according to their share of the household's total income
+       'value, consumption',
+       'value, non-purchase',
+       'value, purchase',
+       'value, spending'
+       'value, tax, predial',
+       'value, tax, purchaselike non-predial non-VAT',
+       'value, tax, purchaselike non-VAT',
+       'vat paid',
+contains:
+- 82255e6d-25b1-41a1-bb36-a216fc565673

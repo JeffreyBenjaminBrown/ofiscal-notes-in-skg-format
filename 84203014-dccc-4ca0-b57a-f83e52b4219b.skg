@@ -1,0 +1,16 @@
+title: some GEIH-ENPH variable correspondences
+pid: 84203014-dccc-4ca0-b57a-f83e52b4219b
+body: |2-
+  employment_variables_in_geih_and_enph = {
+    # GEIH  : ENPH
+    "p1125" : "P6240",
+    "p5953" : "P6250",
+    "p6260" : "P6260",
+    "p8340" : "P6270",
+    "p6280" : "P6280",
+    "p6310" : "P6310",
+    "p6340" : "P6340",
+    "p6351" : "P6350",
+  }
+misc:
+- Had_ID_Before_Import

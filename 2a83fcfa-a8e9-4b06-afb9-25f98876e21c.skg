@@ -1,0 +1,4 @@
+title: keep .csv and generated .py under python/csv-dynamic
+pid: 2a83fcfa-a8e9-4b06-afb9-25f98876e21c
+body: |2-
+  Some of the .csv can be permanent.

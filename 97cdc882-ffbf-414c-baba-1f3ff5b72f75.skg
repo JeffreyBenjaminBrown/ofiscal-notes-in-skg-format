@@ -1,0 +1,4 @@
+title: divide recipes better, and actually target them
+pid: 97cdc882-ffbf-414c-baba-1f3ff5b72f75
+body: |2-
+  Currently the only recipe expects something to be built in a parent folder of where it is built.

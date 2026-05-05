@@ -1,0 +1,6 @@
+title: unsupervised learning
+pid: f8f43c08-0d0b-4e6f-b47c-613a02c5f2a4
+body: |2-
+  Uses the same input as the labeled data system.
+  Different kind of output from that system, though,
+  to be used for clustering.

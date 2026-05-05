@@ -1,0 +1,10 @@
+title: the problem
+pid: 393a4618-06b5-47a4-9d44-b548616e2cb8
+body: |2-
+  The latest build stages compute an average from 2015 onward.
+  Therefore that number appears in these files:
+    build/budget_6p7_avg_muni.md
+    build/budget_6p7_avg_muni.py
+    build/budget_9_static_compare.py
+    draw/chart_content.py
+  That made sense in 2019, but what to do now?

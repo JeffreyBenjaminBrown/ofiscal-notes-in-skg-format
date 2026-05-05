@@ -1,0 +1,5 @@
+title: use a separate Makefile.goods-by-decile and a separate make-goods-by-decile.sh
+pid: 103b8802-c319-494f-aa40-8b5a851f8389
+contains:
+- 63af5a00-5cff-4a42-b2e3-6844d22d2078
+- fa64a061-9cb6-45b3-8bfe-9403c1ef8a00

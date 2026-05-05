@@ -1,0 +1,5 @@
+title: '"income, rank n" is meaningful at the household level'
+pid: 23025690-965a-41c0-82c7-799dc95c82a4
+body: |2-
+  It is the income in pesos of the nth highest earener,
+  not a boolean variable.

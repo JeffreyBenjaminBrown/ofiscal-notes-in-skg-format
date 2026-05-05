@@ -1,0 +1,8 @@
+title: Configure Security Group
+pid: ad4c7bab-34ff-4eaa-8991-9f5997261445
+body: |2-
+  All of these are accessible from anywhere
+    (not "My IP", and not "Custom", whatever that is).
+  SSH   (default), which (I think) means* port 22
+  HTTP  (added),   which (I think) means* port 80
+  HTTPS (added),   which (I think) means* port 443

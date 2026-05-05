@@ -1,0 +1,4 @@
+title: underscores in filenames seem to confuse Matplotlib's font_manager
+pid: c0891ed5-8e0e-4abd-adc1-c37fab04ad13
+body: |2-
+  https://github.com/matplotlib/matplotlib/issues/14536

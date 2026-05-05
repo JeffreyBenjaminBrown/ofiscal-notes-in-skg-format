@@ -1,0 +1,4 @@
+title: where mine is
+pid: bc1d1118-eb33-49d5-aab1-ceddaf4d983f
+body: |2-
+  https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Snapshots:visibility=owned-by-me;snapshotId=snap-07448d2690e517576;sort=snapshotId

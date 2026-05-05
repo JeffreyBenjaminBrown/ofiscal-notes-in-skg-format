@@ -1,0 +1,9 @@
+title: justify dropping the duplicate weights
+pid: 139fccff-161e-4617-92b5-c40a9864f839
+body: |2-
+  I checked, I just didn't formalize the check.
+  But also this should be obvious --
+  it would make no sense for one individual to have
+  more than one statistical weight.
+  (df["weight_otros"] - df["weight_ocup"]) . describe()
+  (df["weight_cg"] - df["weight_ocup"]) . describe()

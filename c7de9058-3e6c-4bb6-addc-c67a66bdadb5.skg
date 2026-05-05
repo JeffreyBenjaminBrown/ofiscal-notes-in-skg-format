@@ -1,0 +1,5 @@
+title: TODO The files that only need the full sample
+pid: c7de9058-3e6c-4bb6-addc-c67a66bdadb5
+body: |2-
+  Prior to the "online" branch, the Makefile had the full sample hard-coded into their recipes, to avoid duplicating the effort of running them.
+  Better (now that subsample is not a Makefile parameter)  would be for the programs run by those recipes to insert proof that the test passed in all four subsample directories.

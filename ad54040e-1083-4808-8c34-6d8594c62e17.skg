@@ -1,0 +1,5 @@
+title: Verify that the categories still mean the same thing.
+pid: ad54040e-1083-4808-8c34-6d8594c62e17
+body: |2-
+  The dictionary I wrote is here:
+  ~/of/cities/Code/build/classify_budget_codes.py

@@ -1,0 +1,6 @@
+title: 'TODO Bugfix: email attachments depend on user strategy, but strategy is being loaded from the default config file.'
+pid: 9dd3fe57-3142-455f-87bb-03dbb5db98dc
+contains:
+- 28ee5bd0-b777-462d-ab81-5590c569259c
+- b394b230-b707-461c-9ace-996549dcf21b
+- e38f1e6f-450f-414c-91db-3e5fa65e1f57

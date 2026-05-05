@@ -1,0 +1,5 @@
+title: TODO ? email addresses with strange characters
+pid: e5a7cf97-3cdf-4d45-8015-3ed4d0ca49c9
+body: |2-
+  Django does not accept them.
+  Are they important?

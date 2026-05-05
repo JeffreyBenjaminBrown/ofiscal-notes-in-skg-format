@@ -1,0 +1,9 @@
+title: 'TODO purchase_sums.py: subdivide for testing'
+pid: 7634aec3-0ad1-46a6-ad15-4e98767df1f8
+body: |2-
+  Currently the variables that are created before the groupby statement
+  are not "cleverly testable". I can test their means, ranges, etc.,
+  but I can't test certain identities without the purchase-level data.
+
+  Saving an intermediate purchase-lsevel data set containing
+  them would make it possible.

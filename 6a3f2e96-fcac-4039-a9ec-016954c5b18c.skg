@@ -1,0 +1,7 @@
+title: build, execute a dynamic import statement
+pid: 6a3f2e96-fcac-4039-a9ec-016954c5b18c
+body: |2-
+  It can be executed with `exec`,
+    which is type String -> IO ().
+  It imports the needed .csv-generated .py files.
+  It is executed in python/regime/r2019.py.

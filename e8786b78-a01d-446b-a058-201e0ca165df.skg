@@ -1,0 +1,4 @@
+title: filenames should not include "-"
+pid: e8786b78-a01d-446b-a058-201e0ca165df
+body: |2-
+  Use "_" instead; otherwise `make` will fail, silently.

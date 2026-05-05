@@ -1,0 +1,5 @@
+title: unit tests for people/main.py
+pid: 4e24c609-f8e1-40a3-9b15-ef2f7006fc45
+body: |2-
+  ? What if a variable is built up in steps in main.py?
+  Should I divide main.py into a separate file for each step?

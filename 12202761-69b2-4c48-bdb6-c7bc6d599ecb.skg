@@ -1,0 +1,7 @@
+title: fig.add_subplot(2, 1, 1, facecolor = "red")
+pid: 12202761-69b2-4c48-bdb6-c7bc6d599ecb
+body: |2-
+  causes the second figure not to be drawn,
+  no other discernible effect
+contains:
+- 8f7825c8-dc78-4385-8cec-f8b8f45c65c1

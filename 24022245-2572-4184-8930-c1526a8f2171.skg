@@ -1,0 +1,5 @@
+title: merge common* programs
+pid: 24022245-2572-4184-8930-c1526a8f2171
+body: |2-
+  I don't need to split the command line and the repl any more.
+  And I need the definition of common.valid_* to work from both contexts.

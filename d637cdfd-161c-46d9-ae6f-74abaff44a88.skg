@@ -1,0 +1,4 @@
+title: plt.rcParams['axes.facecolor] = 'b'
+pid: d637cdfd-161c-46d9-ae6f-74abaff44a88
+body: |2-
+  Changes the legend background, nothing else

@@ -1,0 +1,9 @@
+title: TODO run mypy everywhere
+pid: dc82b659-c0c4-4cb7-b73f-8a4275a5c534
+body: |2-
+  As of <2022-07-21 Thu>,
+  I've run it on all the top-level files in these folders:
+    python/
+    python/build/
+  as well as on
+    bash/run-makefile.py

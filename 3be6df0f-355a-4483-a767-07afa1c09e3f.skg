@@ -1,0 +1,10 @@
+title: 0.15 for vehicle motors
+pid: 3be6df0f-355a-4483-a767-07afa1c09e3f
+body: |2-
+  Motores para veh�culo
+  Was 0.15, should be 0.17694 (see below).
+  VAT depending on value (no vat for Diesel engines up to 150 HP). For electric cars, the VAT rate is 5% (goods with different VAT rates). I (jbb, oct 2021) guess the rest must be 0.19.
+  (6.8 * 0 + 0.1 * 0.05 + (100 - 6.8 - 0.1) * 0.19) / 100
+  = 0.17694
+contains:
+- 3f560bc0-41ee-4523-a745-6a589d729ee7

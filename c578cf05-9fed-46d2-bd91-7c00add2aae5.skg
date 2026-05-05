@@ -1,0 +1,6 @@
+title: python/build/people_4_post_households.py
+pid: c578cf05-9fed-46d2-bd91-7c00add2aae5
+body: |2-
+  earners["share"] = np.where (
+    earners["income, household"] <= 200,
+    ...

@@ -1,0 +1,8 @@
+title: requirements
+pid: ff71d7e2-5b55-480a-ba3b-40393784e983
+body: |2-
+  That data flow should be a CL parameter.
+  The source data should be similarly bifurcated in the folders,
+  and correspond as closely as possible.
+  Any differences between them can be handled in a separate Makefile
+  that makes the new data look like the old data.

@@ -1,0 +1,8 @@
+title: 'if sp . returncode == 0:'
+pid: 4d2b8477-aaa1-433d-81ef-5665cd236dfa
+body: |2-
+  # TODO : `make` returns 0 even when from my point of view it didn't work, so this is unreliable.
+  lib . mutate (
+      requests_path,
+      lambda reqs: lib . mark_complete (
+          user_hash, reqs ) )

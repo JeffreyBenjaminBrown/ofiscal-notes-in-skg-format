@@ -1,0 +1,6 @@
+title: make spreadsheets in tax.co shareable
+pid: ff5abcd9-6d7d-4de2-976b-748f0c5b9177
+body: |2-
+  Move them to to-serve/,
+  and simlink their original locations to the new ones.
+  Then run tax.co to make sure they work.

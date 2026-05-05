@@ -1,0 +1,6 @@
+title: use config.json to define the standard Makefile arguments
+pid: e2bac19b-ab4f-45a1-bbbe-b9a53498119e
+body: |2-
+  subsample=$1
+  regime_year=$regime_year
+  strategy=$strategy

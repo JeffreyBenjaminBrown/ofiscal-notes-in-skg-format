@@ -1,0 +1,7 @@
+title: download each individually
+pid: bf55fa28-671a-44e0-bc6f-b1075878e7c8
+body: |2-
+  These are ordered by size.
+  wget https://tax-co-archives.s3.amazonaws.com/tax_co_web.zip
+  wget https://tax-co-archives.s3.amazonaws.com/tax_co_online.zip
+  wget https://tax-co-archives.s3.amazonaws.com/tax_co.docker.tar

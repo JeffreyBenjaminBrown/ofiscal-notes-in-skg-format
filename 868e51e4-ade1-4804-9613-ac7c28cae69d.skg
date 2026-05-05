@@ -1,0 +1,13 @@
+title: NC2_CC_P2
+pid: 868e51e4-ade1-4804-9613-ac7c28cae69d
+body: |2-
+  1 » 1. Nunca
+  2 » 2. Diario
+  3 » 2.1 varias veces por semana
+  4 » 3. Semanal
+  5 » 4. Quincenal
+  6 » 5. Mensual
+  7 » 6. Bimestral
+  8 » 7. Trimestral
+  9 » 9. Esporádica"
+  ss frequently than every year", assuming that the terms are ordered. But over here it interprets 9 as "Esporádica por semana".

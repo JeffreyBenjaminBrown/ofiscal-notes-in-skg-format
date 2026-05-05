@@ -1,0 +1,6 @@
+title: python/build/people_4_post_households_test.py
+pid: 5bae4531-2cc8-4c88-b2ef-bcb245911d01
+body: |2-
+  ptemp = ( # To make sure none of the ratios is infinite.
+    ptemp [ ( ptemp [ "income" ] > 2 ) &
+     ( ptemp [ "value, purchase" ] > 0 ) ] )

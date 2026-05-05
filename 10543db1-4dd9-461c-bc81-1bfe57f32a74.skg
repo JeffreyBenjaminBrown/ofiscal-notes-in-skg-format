@@ -1,0 +1,13 @@
+title: collect global logs in logs/ rather than project root
+pid: 10543db1-4dd9-461c-bc81-1bfe57f32a74
+body: |2-
+  data/requests.csv
+  data/requests.temp.csv
+  data/requests.temp.csv.lock
+
+  income_tax.pickle
+  manual_ingest.pickle
+  non_tax.pickle
+  vat.pickle
+  requests-cron-log.txt
+  requests-log.txt

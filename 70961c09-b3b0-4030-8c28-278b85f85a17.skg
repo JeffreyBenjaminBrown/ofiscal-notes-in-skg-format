@@ -1,0 +1,5 @@
+title: Some rows are not rows, but should be columns.
+pid: 70961c09-b3b0-4030-8c28-278b85f85a17
+body: |2-
+  Each special row identifies some characteristic of the rows below it
+  and above the next special row.

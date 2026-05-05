@@ -1,0 +1,7 @@
+title: code example
+pid: 8f7825c8-dc78-4385-8cec-f8b8f45c65c1
+body: |2-
+  fig = Figure()
+
+  ax = fig.add_subplot(2, 1, 1, facecolor = "red")
+  drawText( ax, lines )

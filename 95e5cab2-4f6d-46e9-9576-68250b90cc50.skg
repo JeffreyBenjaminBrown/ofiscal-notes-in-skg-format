@@ -1,0 +1,8 @@
+title: 'TODO Solve / Internalize : If the strategy changes but a user already has data generated from the other one, the makefile gets confused.'
+pid: 95e5cab2-4f6d-46e9-9576-68250b90cc50
+body: |2-
+  A dumb solution is to nuke the user's data folder
+  each time its strategy changes.
+
+  A better one would be to write a file when the strategy changes,
+  and make others depend on that.

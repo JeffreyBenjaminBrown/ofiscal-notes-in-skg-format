@@ -1,0 +1,4 @@
+title: build an executable, callable from shell, with command-line args
+pid: 39285550-8150-4caa-b506-48dac70bb3dc
+body: |2-
+  for translating a .csv file

@@ -1,0 +1,12 @@
+title: tax.co / ownserhip is weird
+pid: 8ceffe3f-cc4d-48f8-87b9-ebe2a247c710
+body: |2-
+      Everything touched by either [[id:7deaf598-7d46-4ffa-870e-f99832dd58c7][the python3 call]] or [[id:d37c67b8-408e-404d-abf4-b8c9747561b2][running tax_co_cron.sh by hand]] is owned on the native EC2 system by
+  user ubuntu, group systemd-coredump
+      and in the Docker container by
+  user appuser, group appuser
+      whereas for other things the group is
+  ubuntu in the native EC2 system
+  1000 in the Docker container
+misc:
+- Had_ID_Before_Import

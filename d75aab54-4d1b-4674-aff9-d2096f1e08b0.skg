@@ -1,0 +1,9 @@
+title: tax, income = the sum of
+pid: d75aab54-4d1b-4674-aff9-d2096f1e08b0
+body: |2-
+  python/regime/r2019.py
+
+  "tax, income, most"
+  "tax, income, dividend"
+  "tax, income, ganancia ocasional"
+  "tax, income, gmf"

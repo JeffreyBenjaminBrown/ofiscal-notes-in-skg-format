@@ -1,0 +1,20 @@
+title: our response
+pid: fea6ea41-3a6f-4b0b-8def-ea824de5d59f
+body: |2-
+  We have as yet received no co-financing for the project.
+
+  The activities in our budget are the following:
+
+  (1)  (9,700.00 €) Study, parse and unify the online databases. This stage will be brief but fundamental: the other stages all rely on it.
+
+  Stages (2), (3) and (4) are concurrent.
+
+  (2) (87,000.00 €) Descriptive statistics, numerical analysis. In this stage we build our own understanding of the data.
+
+  (3) (47,650.00 €) Build prediction models. These models will be used to identify suspicious contract activity.
+
+  (4) (18,500.00 €) Build scraping and publishing software. The scraping software will automatically update our meta-database as the databases that it was generated from are themselves updated. The publishing software will update our online analyses, including any suspicious activity the algorithm identifies.
+
+  (5) (18,500.00 €) Write and publish reports. These will explain how to use the databases provided by the government and our own meta-database, and will detail our research findings from stages (2) and (3).
+
+  (6) (18,500.00 €) Public events and exposure efforts. This stage consists of outreach to news media, the government and the citizenry at large. The outreach will use all available media: online, via traditional broadcast media, in small in-person meetings, and in seminars and colloquia.

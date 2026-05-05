@@ -1,0 +1,9 @@
+title: 'FALSE suspicion: sim.jefbrown.net is confusing it'
+pid: 3e9dbf64-9f00-47e7-a6bc-17379df33262
+body: |2-
+  In the branch that fails,
+  even when I delete sim.jefbrown.net in
+    ebdjango/settings.py
+  in the definition of
+    ALLOWED_HOSTS
+  it still doesn't work.

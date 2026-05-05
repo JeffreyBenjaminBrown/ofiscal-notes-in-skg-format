@@ -1,0 +1,4 @@
+title: DONE What put user_email after user?
+pid: 64f68512-52df-4b40-b182-3c39ee9d1219
+body: |2-
+  uniquify was doing it, because grouping and aggregating puts the grouping variables first.

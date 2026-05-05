@@ -1,0 +1,5 @@
+title: TODO PITFALL ! people["non-beca sources"] sometimes turns numeric
+pid: af3f9b09-92a0-4af9-a9de-b0631040d493
+body: |2-
+  It is a space-separated list of integers.
+  In the 1/100 sample it has no lists greater than 1, so it is converted automatically to numeric.

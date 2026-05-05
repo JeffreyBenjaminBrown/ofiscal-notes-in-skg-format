@@ -1,0 +1,6 @@
+title: DONE impuesto sobre donaciones
+pid: 264f9c81-80df-4dee-b8ad-687fb0503aac
+body: |2-
+  tax = (S - min( S / 5, 2290 uvt)) * 0.1
+      where S = sum of all gifts (private or public)
+              = P7510S3A1 + P7510S4A1

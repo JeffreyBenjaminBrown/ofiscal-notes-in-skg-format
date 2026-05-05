@@ -1,0 +1,6 @@
+title: state the goal
+pid: 71f0f041-4233-4223-899e-29b8f1a10216
+body: |2-
+  rename
+    people_4_post_households ->
+    people_4_earners_post_households

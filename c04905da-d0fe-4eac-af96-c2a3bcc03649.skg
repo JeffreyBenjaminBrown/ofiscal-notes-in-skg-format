@@ -1,0 +1,7 @@
+title: DONE hide my email credentials
+pid: c04905da-d0fe-4eac-af96-c2a3bcc03649
+body: |2-
+  They're not in the repo, but they'll be on the server,
+  so they shouldn't be in tax_co, which is publicly readable.
+misc:
+- Had_ID_Before_Import

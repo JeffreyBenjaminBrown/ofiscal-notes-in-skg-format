@@ -1,0 +1,10 @@
+title: the problem
+pid: 0d310b9a-b1e1-41f6-b24e-91c14d191b90
+body: |2-
+  I've got it including private beca funds, but not private non-beca funds,
+  and not government edu funds.
+
+        ppl["income, non-labor (tax def)"] = (
+            ppl["income, sale not real estate"]
+          + ppl["income, month : private : beca, cash"]
+          + ppl["income, month : private : beca, in-kind"] )

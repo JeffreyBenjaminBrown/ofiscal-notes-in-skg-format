@@ -1,0 +1,7 @@
+title: in the Docker container, update pip packages
+pid: b8ffb948-5c2e-425f-8d59-094225f0b615
+contains:
+- 4d65fa68-2a8b-4ac8-b592-6cd875492291
+- ebc7de06-64f2-49fe-9d9a-d2f428b6c1e8
+misc:
+- Had_ID_Before_Import

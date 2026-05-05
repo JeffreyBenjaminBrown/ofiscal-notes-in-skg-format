@@ -1,0 +1,11 @@
+title: for the IVA
+pid: 4ed7b471-97a4-4613-9711-13b3e229695f
+body: |2-
+       keep another column yet: "0" for exempt & 0 for excluded
+
+  Rates          0        0.05      0.19   <add another column>
+  Food           x
+  Medicine       x
+  Cars                              x
+  Yachts                  x
+  ...

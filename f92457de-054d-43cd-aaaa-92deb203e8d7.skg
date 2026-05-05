@@ -1,0 +1,6 @@
+title: The Makefile recipes are for simlinks.
+pid: f92457de-054d-43cd-aaaa-92deb203e8d7
+body: |2-
+  Each request (a set greater than each hash-equivalent request)
+  lives in its own folder. The Makefile creates simlinks from that folder
+  to the "data products" folder.

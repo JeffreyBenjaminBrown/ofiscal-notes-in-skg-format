@@ -1,0 +1,5 @@
+title: '"Calculo tributo cedula general gravable" should be "last use".'
+pid: e6302946-3c8f-4beb-8bb6-91b33ffeec99
+body: |2-
+  It lists a lot of points in the source code.
+  If point P appears in that column for row R, it means the variable corresponding to R is last used at P.

@@ -1,0 +1,5 @@
+title: Compute "income below private pension threshold".
+pid: 130847d4-7862-4dc7-8fba-b3c1ee6926f5
+body: |2-
+  = min ( formal labor income
+        , threshold )

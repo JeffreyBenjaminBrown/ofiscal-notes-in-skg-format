@@ -1,0 +1,13 @@
+title: TODO incorporate this change
+pid: 2b0ca8e2-d85b-41ff-81b6-9f80879804e0
+body: |2-
+  raw_series now comments out the line
+    #  , ("Código Concepto", "Concepto" )
+  from the definition of
+    `duplicative_columns_long`,
+  because although it's true that "concepto"
+  can be inferred from "codigo concepto",
+  I want the former so that I can build the keys in "Code/explore/cuipo/sisfut_keys".
+
+  That means that downstream from "budget_0_collect.py"
+  I should drop that "concepto" column.

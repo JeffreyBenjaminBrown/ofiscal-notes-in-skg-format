@@ -1,0 +1,13 @@
+title: code
+pid: e6934875-1d5f-4cfc-a1a6-fd05176a79bf
+body: |2-
+  import Code.build.budget_9_static_compare_lib as lib
+
+  for s in s4.series: # Compute min, max year for each space slice in dfs0.
+    # PITFALL: This is a little wasteful -- it computes min and max year
+    # four times per municipality. But moving it upstream would be hard.
+    for stat in ["min","max"]:
+      dfs1 [s.name] = lib.compute_stat_of_year_per_space_slice (
+        space_cols = ["dept code","muni code"],
+        stat = stat,
+        df = dfs1 [s.name] )

@@ -1,0 +1,5 @@
+title: TODO incorporate tests in hand_test/ into automatic tests
+pid: 3fcabe56-7f6c-4fff-b6f8-045987de35b1
+body: |2-
+  Note that not all of them can be automated --
+  for instance, the ones that draw pictures.
