@@ -1,7 +1,6 @@
 title: If the average corporate tax rate depends on a corporation's scale, it creates a growth disincentive.
 pid: d73f4ba5-d1ee-4936-8161-16660ebfd90a
 body: |2-
-
   If small companies pay a lower average tax rate than large companies, that makes small companies want to stay small. But bigger companies are more efficient. All else equal, two small companies are in general less productive than one bigger company the size of the two small ones.
   The effect could be great enough even to cause a company at the margin to want to shrink. Suppose the tax rate is 20% for companies with profits below 1000 million pesos a year, and 30% for a company with profits above. Stated equivalently, big companies can keep 70% of their profits, and small ones can keep 80%.
   Under those conditions, a company that makes 1050 million pesos before taxes will make 0.7 * 1050 = 735 million pesos after taxes. By contrast, a company that makes 950 million pesos before taxes would end up with 950 * 0.8 = 760 million pesos after taxes. A big company could, in December, realize it's about to cross the 1000 million peso threshold and respond by halting operations. That's clearly a terrible use of resources.
